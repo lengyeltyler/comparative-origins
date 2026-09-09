@@ -9,5 +9,5 @@ export default defineConfig({
   plugins: [react()],
   resolve: { alias: { '@': fileURLToPath(new URL('..', import.meta.url)) } },
   css: { postcss: { plugins: [tailwindcss()] } },
-  build: { outDir: 'dist', emptyOutDir: true },
+  build: { outDir: '../dist', emptyOutDir: true },
 });

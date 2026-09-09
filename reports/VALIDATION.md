@@ -10,7 +10,7 @@ Run date: 2026-09-09.
 | React rendering | PASS: 37 render cases across all major views and every text, object and research dossier; see render-checks.json. |
 | TypeScript | PASS. |
 | Project-authored lint | PASS. |
-| Static production build | PASS; HTML/CSS/JS and evidence downloads emitted under site/dist. |
+| Static production build | PASS; HTML/CSS/JS and evidence downloads emitted under dist. |
 | Dependency audit | 0 reported vulnerabilities after compatible dependency updates; see dependency-audit.json. |
 | Source HTTP availability | 25/33 reachable; 8 need network review. See source-links.json. |
 

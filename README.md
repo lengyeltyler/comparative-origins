@@ -78,7 +78,7 @@ npm run check:sources    # optional network availability check; saves a report
 
 The command wrappers `scripts/validate-data`, `scripts/build-comparisons`, and `scripts/generate-timeline` are also executable.
 
-The publication artifact is **site/dist/**: static HTML, CSS, JavaScript and downloadable JSON/Markdown/BibTeX. The production site uses React in the browser, with hash navigation for compatibility with GitHub Pages project subpaths. JavaScript is required for interactive browsing; cited tables and full data remain available without it. The Sites development shell is not a production database or required server.
+The publication artifact is **dist/**: static HTML, CSS, JavaScript and downloadable JSON/Markdown/BibTeX. The production site uses React in the browser, with hash navigation for compatibility with GitHub Pages project subpaths. JavaScript is required for interactive browsing; cited tables and full data remain available without it. The Sites development shell is not a production database or required server.
 
 ## Publish
 
