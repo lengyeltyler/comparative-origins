@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ugarit-hittite",
+    "from_culture": "Ugarit",
+    "to_culture": "Hittite kingdom",
+    "date": {
+      "label": "around 1350 BCE",
+      "start": -1350,
+      "end": -1350,
+      "status": "documented",
+      "scope": "individual-witness",
+      "confidence": "moderate",
+      "citations": [
+        {
+          "source": "met-ugarit",
+          "locator": "Hittite domination and treaty"
+        }
+      ]
+    },
+    "kind": "political-contact",
+    "claim": {
+      "text": "The museum essay describes Hittite domination and a recovered treaty. This permits investigation of transmission, but does not prove a borrowed myth.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "met-ugarit",
+          "locator": "Hittite domination and treaty"
+        }
+      ]
+    }
+  }
+]

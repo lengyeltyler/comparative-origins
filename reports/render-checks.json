@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "checked": 37,
+  "scope": "React static rendering of all major views and records, empty selection, all selection, search empty states, and unrecorded motifs. No interactive browser testing claimed."
+}

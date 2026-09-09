@@ -1,0 +1,184 @@
+{
+  "id": "memphite",
+  "title": "Memphite theology / Shabaka Stone",
+  "tradition": "egyptian",
+  "culture": "Egypt",
+  "language": "Egyptian (hieroglyphic)",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "bm-shabaka",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "The stone presents creation and claims preservation of an older text.",
+    "category": "primary-evidence",
+    "confidence": "high",
+    "status": "documented",
+    "label": "PRIMARY SOURCE",
+    "citations": [
+      {
+        "source": "bm-shabaka",
+        "locator": "Narrative setting"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "Disputed: New Kingdom or 25th Dynasty proposals; no numeric range assigned",
+    "start": null,
+    "end": null,
+    "status": "documented",
+    "scope": "composition",
+    "confidence": "moderate",
+    "citations": [
+      {
+        "source": "bm-shabaka",
+        "locator": "Description; Curator comments"
+      }
+    ]
+  },
+  "surviving_manuscript": {
+    "label": "ca. 710 BCE",
+    "start": -710,
+    "end": -710,
+    "status": "documented",
+    "scope": "individual-witness",
+    "confidence": "moderate",
+    "citations": [
+      {
+        "source": "bm-shabaka",
+        "locator": "Production date"
+      }
+    ]
+  },
+  "earliest_witness": {
+    "label": "Shabaka Stone: sole surviving copy identified by catalogue; ca. 710 BCE",
+    "start": -710,
+    "end": -710,
+    "status": "documented",
+    "scope": "earliest-witness",
+    "confidence": "moderate",
+    "citations": [
+      {
+        "source": "bm-shabaka",
+        "locator": "Jones 1990a curator comment"
+      }
+    ]
+  },
+  "provenance": {
+    "text": "EA498, found/acquired at Memphis; later reused as a millstone.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "bm-shabaka",
+        "locator": "Description; Findspot"
+      }
+    ]
+  },
+  "primary_sources": [],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [
+    "EA498"
+  ],
+  "motifs": [
+    "creation-by-speech",
+    "creation-order"
+  ],
+  "figures": [
+    "Ptah",
+    "Atum"
+  ],
+  "objects": [],
+  "places": [
+    "Memphis"
+  ],
+  "related_texts": [
+    "hermopolitan",
+    "heliopolitan"
+  ],
+  "bibliography": [
+    "bm-shabaka",
+    "tla-shabaka"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "TODO: Collate the surviving hieroglyphic passage; do not supply a reconstructed prelude.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    },
+    "first-actors": {
+      "text": "Ptah is assigned priority in creation.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "bm-shabaka",
+          "locator": "Description; Curator comments"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "The catalogue identifies creation through the spoken word.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "bm-shabaka",
+          "locator": "Description"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "TODO: Add line-level heart/tongue and human-creation passages from a critical edition.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    },
+    "divine-structure": {
+      "text": "Ptah is credited with creating the other gods.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "bm-shabaka",
+          "locator": "Jones 1990a curator comment"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "TODO: No passage collated.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    }
+  },
+  "claims": [],
+  "original_terms": [],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Critical line-by-line collation remains open.",
+    "Its claim to copy an old worm-damaged document is a textual claim, not a date for an extant older witness."
+  ]
+}

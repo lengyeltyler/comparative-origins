@@ -1,0 +1,182 @@
+[
+  {
+    "id": "eden",
+    "name": "Eden",
+    "texts": [
+      "genesis-2-3"
+    ],
+    "kind": "narrative-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "leningrad",
+        "locator": "Shelfmark"
+      }
+    ]
+  },
+  {
+    "id": "eridu",
+    "name": "Eridu",
+    "texts": [
+      "eridu-genesis"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "penn-flood",
+        "locator": "Provenience; Other Number"
+      }
+    ]
+  },
+  {
+    "id": "hattusa",
+    "name": "Hattusa",
+    "texts": [
+      "kumarbi"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "powell-kumarbi",
+        "locator": "p. 12"
+      }
+    ]
+  },
+  {
+    "id": "helicon",
+    "name": "Helicon",
+    "texts": [
+      "theogony"
+    ],
+    "kind": "narrative-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "heliopolis",
+    "name": "Heliopolis",
+    "texts": [
+      "heliopolitan"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "pt-allen",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "hermopolis",
+    "name": "Hermopolis",
+    "texts": [
+      "hermopolitan"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "memphis",
+    "name": "Memphis",
+    "texts": [
+      "memphite"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "bm-shabaka",
+        "locator": "Description; Findspot"
+      }
+    ]
+  },
+  {
+    "id": "nineveh",
+    "name": "Nineveh",
+    "texts": [
+      "enuma-elish"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "bm-enuma",
+        "locator": "Findspot; Title"
+      }
+    ]
+  },
+  {
+    "id": "nippur",
+    "name": "Nippur",
+    "texts": [
+      "eridu-genesis"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "penn-flood",
+        "locator": "Provenience; Other Number"
+      }
+    ]
+  },
+  {
+    "id": "saqqara",
+    "name": "Saqqara",
+    "texts": [
+      "heliopolitan"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "pt-allen",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "sippar",
+    "name": "Sippar",
+    "texts": [
+      "atrahasis"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "bm-atra",
+        "locator": "Findspot; Curator comments"
+      }
+    ]
+  },
+  {
+    "id": "ugarit",
+    "name": "Ugarit",
+    "texts": [
+      "baal-cycle"
+    ],
+    "kind": "source-or-tradition-location",
+    "note": "No map coordinates assigned until geographical identification and evidence role are reviewed.",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Excerpt heading"
+      }
+    ]
+  }
+]

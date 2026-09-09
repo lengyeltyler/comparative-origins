@@ -1,0 +1,500 @@
+[
+  {
+    "id": "moses-staff",
+    "name": "Moses’ staff",
+    "tradition": "hebrew",
+    "family": "staff-rod-scepter",
+    "original_word": "מַטֶּה",
+    "transliteration": "maṭṭeh",
+    "literal_meaning": "staff / rod",
+    "language": "Biblical Hebrew",
+    "terminology_citations": [
+      {
+        "source": "ex-4",
+        "locator": "4:2–5, 17, 20"
+      }
+    ],
+    "description": {
+      "text": "A staff changes into a serpent and back.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-4",
+          "locator": "4:2–5, 17, 20"
+        }
+      ]
+    },
+    "owner": {
+      "text": "Moses",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-4",
+          "locator": "4:2–5, 17, 20"
+        }
+      ]
+    },
+    "powers": {
+      "text": "Transformation and signs.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-4",
+          "locator": "4:2–5, 17, 20"
+        }
+      ]
+    },
+    "power_locus": {
+      "text": "The instructions and sign originate with God; no autonomous mechanism is described.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-4",
+          "locator": "4:2–5, 17, 20"
+        }
+      ]
+    },
+    "context": {
+      "text": "A sign in the commissioning of Moses.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-4",
+          "locator": "4:2–5, 17, 20"
+        }
+      ]
+    },
+    "date": {
+      "label": "TODO: Composition and earliest witness need review.",
+      "start": null,
+      "end": null,
+      "status": "todo",
+      "scope": "composition",
+      "confidence": "unknown",
+      "citations": []
+    },
+    "earliest_attestation": {
+      "label": "TODO: Earliest attestation of this object type not established.",
+      "start": null,
+      "end": null,
+      "status": "todo",
+      "scope": "earliest-witness",
+      "confidence": "unknown",
+      "citations": []
+    },
+    "comparables": [
+      "aaron-staff",
+      "hesiod-scepter"
+    ],
+    "interpretation": {
+      "text": "This occurrence should not be conflated with Aaron’s rod or with every English “wand.”",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ex-4",
+          "locator": "4:2–5"
+        }
+      ]
+    },
+    "parallel_confidence": "speculative",
+    "parallel_explanation": "Shared English naming alone does not establish identity, a common technology, or transmission.",
+    "citations": [
+      {
+        "source": "ex-4",
+        "locator": "4:2–5, 17, 20"
+      }
+    ]
+  },
+  {
+    "id": "aaron-staff",
+    "name": "Aaron’s staff before Pharaoh",
+    "tradition": "hebrew",
+    "family": "staff-rod-scepter",
+    "original_word": "מַטֶּה",
+    "transliteration": "maṭṭeh",
+    "literal_meaning": "staff / rod",
+    "language": "Biblical Hebrew",
+    "terminology_citations": [
+      {
+        "source": "ex-7",
+        "locator": "7:8–13"
+      }
+    ],
+    "description": {
+      "text": "Aaron’s staff becomes a tannîn and swallows the other staffs.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-7",
+          "locator": "7:8–13"
+        }
+      ]
+    },
+    "owner": {
+      "text": "Aaron",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-7",
+          "locator": "7:8–13"
+        }
+      ]
+    },
+    "powers": {
+      "text": "Transformation and swallowing rival staffs.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-7",
+          "locator": "7:8–13"
+        }
+      ]
+    },
+    "power_locus": {
+      "text": "The action follows God’s instruction through Moses and Aaron.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-7",
+          "locator": "7:8–13"
+        }
+      ]
+    },
+    "context": {
+      "text": "Confrontation before Pharaoh.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ex-7",
+          "locator": "7:8–13"
+        }
+      ]
+    },
+    "date": {
+      "label": "TODO: Composition and earliest witness need review.",
+      "start": null,
+      "end": null,
+      "status": "todo",
+      "scope": "composition",
+      "confidence": "unknown",
+      "citations": []
+    },
+    "earliest_attestation": {
+      "label": "TODO: Earliest attestation of this object type not established.",
+      "start": null,
+      "end": null,
+      "status": "todo",
+      "scope": "earliest-witness",
+      "confidence": "unknown",
+      "citations": []
+    },
+    "comparables": [
+      "moses-staff"
+    ],
+    "interpretation": {
+      "text": "The Hebrew uses tannîn here, whereas Exodus 4 uses nāḥāš. Exact creature identification requires lexical review.",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ex-7",
+          "locator": "7:9–12"
+        }
+      ]
+    },
+    "parallel_confidence": "speculative",
+    "parallel_explanation": "Shared English naming alone does not establish identity, a common technology, or transmission.",
+    "citations": [
+      {
+        "source": "ex-7",
+        "locator": "7:8–13"
+      }
+    ]
+  },
+  {
+    "id": "hesiod-scepter",
+    "name": "Hesiod’s laurel scepter",
+    "tradition": "greek",
+    "family": "staff-rod-scepter",
+    "original_word": "σκῆπτρον",
+    "transliteration": "skēptron",
+    "literal_meaning": "staff / scepter",
+    "language": "Ancient Greek",
+    "terminology_citations": [
+      {
+        "source": "scepter-scs",
+        "locator": "Abstract; Theogony 1–34"
+      }
+    ],
+    "description": {
+      "text": "A freshly cut laurel branch given as a staff.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "22–35"
+        }
+      ]
+    },
+    "owner": {
+      "text": "Hesiod, from the Muses",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "22–35"
+        }
+      ]
+    },
+    "powers": {
+      "text": "The gift accompanies inspired speech.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "22–35"
+        }
+      ]
+    },
+    "power_locus": {
+      "text": "The Muses give the voice; no independent power of the wood is stated.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "22–35"
+        }
+      ]
+    },
+    "context": {
+      "text": "Poetic commissioning on Helicon.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "22–35"
+        }
+      ]
+    },
+    "date": {
+      "label": "700–660 BCE: span of cited proposals",
+      "start": -700,
+      "end": -660,
+      "status": "documented",
+      "scope": "composition",
+      "confidence": "moderate",
+      "citations": [
+        {
+          "source": "clay-date",
+          "locator": "Introduction p. 2 and note 6"
+        }
+      ]
+    },
+    "earliest_attestation": {
+      "label": "TODO: Earliest attestation of this object type not established.",
+      "start": null,
+      "end": null,
+      "status": "todo",
+      "scope": "earliest-witness",
+      "confidence": "unknown",
+      "citations": []
+    },
+    "comparables": [
+      "moses-staff"
+    ],
+    "interpretation": {
+      "text": "The SCS abstract discusses the staff as an emblem of poetic authority.",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "scepter-scs",
+          "locator": "Abstract"
+        }
+      ]
+    },
+    "parallel_confidence": "speculative",
+    "parallel_explanation": "Shared English naming alone does not establish identity, a common technology, or transmission.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "22–35"
+      }
+    ]
+  },
+  {
+    "id": "egyptian-wand",
+    "name": "Curved ivory wand, Met 86.1.91",
+    "tradition": "egyptian",
+    "family": "staff-rod-scepter",
+    "original_word": null,
+    "transliteration": null,
+    "literal_meaning": "TODO: modern catalogue title is not an ancient name.",
+    "language": "Egyptian; ancient object name unverified",
+    "terminology_citations": [],
+    "description": {
+      "text": "Curved hippopotamus ivory bearing protective figures.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "met-wand",
+          "locator": "Description; Artwork Details"
+        }
+      ]
+    },
+    "owner": {
+      "text": "No named owner identified in the catalogue.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "met-wand",
+          "locator": "Description; Artwork Details"
+        }
+      ]
+    },
+    "powers": {
+      "text": "Protective function is a scholarly interpretation, not proof of efficacy.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "met-wand",
+          "locator": "Description; Artwork Details"
+        }
+      ]
+    },
+    "power_locus": {
+      "text": "No demonstrated physical supernatural effect.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "met-wand",
+          "locator": "Description; Artwork Details"
+        }
+      ]
+    },
+    "context": {
+      "text": "An archaeological object; catalogue associates the class with birth protection.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "met-wand",
+          "locator": "Description; Artwork Details"
+        }
+      ]
+    },
+    "date": {
+      "label": "ca. 1850–1640 BCE",
+      "start": -1850,
+      "end": -1640,
+      "status": "documented",
+      "scope": "individual-witness",
+      "confidence": "moderate",
+      "citations": [
+        {
+          "source": "met-wand",
+          "locator": "Date"
+        }
+      ]
+    },
+    "earliest_attestation": {
+      "label": "TODO: Earliest attestation of this object type not established.",
+      "start": null,
+      "end": null,
+      "status": "todo",
+      "scope": "earliest-witness",
+      "confidence": "unknown",
+      "citations": []
+    },
+    "comparables": [
+      "hesiod-scepter"
+    ],
+    "interpretation": {
+      "text": "The museum interprets this object class in relation to infant protection and possible funerary rebirth.",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "met-wand",
+          "locator": "Curatorial description"
+        }
+      ]
+    },
+    "parallel_confidence": "speculative",
+    "parallel_explanation": "Shared English naming alone does not establish identity, a common technology, or transmission.",
+    "citations": [
+      {
+        "source": "met-wand",
+        "locator": "Description; Artwork Details"
+      }
+    ]
+  }
+]

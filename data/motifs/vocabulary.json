@@ -1,0 +1,471 @@
+[
+  {
+    "id": "primordial-state",
+    "name": "Primordial state",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Primordial state. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "primordial-waters",
+    "name": "Primordial waters",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Primordial waters. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "darkness",
+    "name": "Darkness",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Darkness. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "chaos-unordered-state",
+    "name": "Chaos / unordered state",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Chaos / unordered state. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "void",
+    "name": "Void",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Void. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "cosmic-egg",
+    "name": "Cosmic egg",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Cosmic egg. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "primeval-mound",
+    "name": "Primeval mound",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Primeval mound. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "separation-of-heaven-and-earth",
+    "name": "Separation of heaven and earth",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Separation of heaven and earth. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "creation-by-speech",
+    "name": "Creation by speech",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Creation by speech. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "creation-by-thought",
+    "name": "Creation by thought",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Creation by thought. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "creation-through-conflict",
+    "name": "Creation through conflict",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Creation through conflict. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "creation-from-body-of-deity",
+    "name": "Creation from body of deity",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Creation from body of deity. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-generation",
+    "name": "Divine generation",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Divine generation. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "light-emerging-from-darkness",
+    "name": "Light emerging from darkness",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Light emerging from darkness. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "creation-order",
+    "name": "Creation / order",
+    "group": "Cosmology",
+    "definition": "Analytical tag: Creation / order. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "human-creation",
+    "name": "Human creation",
+    "group": "Human creation",
+    "definition": "Analytical tag: Human creation. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "humanity-from-clay",
+    "name": "Humanity from clay",
+    "group": "Human creation",
+    "definition": "Analytical tag: Humanity from clay. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "humanity-from-earth",
+    "name": "Humanity from earth",
+    "group": "Human creation",
+    "definition": "Analytical tag: Humanity from earth. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-breath-life",
+    "name": "Divine breath / life",
+    "group": "Human creation",
+    "definition": "Analytical tag: Divine breath / life. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-blood",
+    "name": "Divine blood",
+    "group": "Human creation",
+    "definition": "Analytical tag: Divine blood. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-image",
+    "name": "Divine image",
+    "group": "Human creation",
+    "definition": "Analytical tag: Divine image. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "humans-created-to-labor",
+    "name": "Humans created to labor",
+    "group": "Human creation",
+    "definition": "Analytical tag: Humans created to labor. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "humans-receiving-intelligence",
+    "name": "Humans receiving intelligence",
+    "group": "Human creation",
+    "definition": "Analytical tag: Humans receiving intelligence. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "forbidden-knowledge",
+    "name": "Forbidden knowledge",
+    "group": "Human creation",
+    "definition": "Analytical tag: Forbidden knowledge. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "humans-becoming-like-gods",
+    "name": "Humans becoming like gods",
+    "group": "Human creation",
+    "definition": "Analytical tag: Humans becoming like gods. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "mortality-introduced",
+    "name": "Mortality introduced",
+    "group": "Human creation",
+    "definition": "Analytical tag: Mortality introduced. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "loss-of-immortality",
+    "name": "Loss of immortality",
+    "group": "Human creation",
+    "definition": "Analytical tag: Loss of immortality. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "knowledge",
+    "name": "Knowledge",
+    "group": "Human creation",
+    "definition": "Analytical tag: Knowledge. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "mortality",
+    "name": "Mortality",
+    "group": "Human creation",
+    "definition": "Analytical tag: Mortality. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "primordial-gods",
+    "name": "Primordial gods",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Primordial gods. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "younger-gods",
+    "name": "Younger gods",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Younger gods. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-council",
+    "name": "Divine council",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Divine council. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-succession",
+    "name": "Divine succession",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Divine succession. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "rebellion",
+    "name": "Rebellion",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Rebellion. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "war-in-heaven",
+    "name": "War in heaven",
+    "group": "Divine structure",
+    "definition": "Analytical tag: War in heaven. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "overthrow-of-older-generation",
+    "name": "Overthrow of older generation",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Overthrow of older generation. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "sky-god",
+    "name": "Sky god",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Sky god. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "earth-deity",
+    "name": "Earth deity",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Earth deity. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "storm-god",
+    "name": "Storm god",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Storm god. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "wisdom-god",
+    "name": "Wisdom god",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Wisdom god. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "creator-god",
+    "name": "Creator god",
+    "group": "Divine structure",
+    "definition": "Analytical tag: Creator god. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "flood",
+    "name": "Flood",
+    "group": "Catastrophe",
+    "definition": "Analytical tag: Flood. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-destruction-of-humanity",
+    "name": "Divine destruction of humanity",
+    "group": "Catastrophe",
+    "definition": "Analytical tag: Divine destruction of humanity. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "chosen-survivor",
+    "name": "Chosen survivor",
+    "group": "Catastrophe",
+    "definition": "Analytical tag: Chosen survivor. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "boat-ark",
+    "name": "Boat / ark",
+    "group": "Catastrophe",
+    "definition": "Analytical tag: Boat / ark. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "preservation-of-animals",
+    "name": "Preservation of animals",
+    "group": "Catastrophe",
+    "definition": "Analytical tag: Preservation of animals. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "mountain-landing",
+    "name": "Mountain landing",
+    "group": "Catastrophe",
+    "definition": "Analytical tag: Mountain landing. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "sacrifice-afterward",
+    "name": "Sacrifice afterward",
+    "group": "Catastrophe",
+    "definition": "Analytical tag: Sacrifice afterward. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-regret-or-reconciliation",
+    "name": "Divine regret or reconciliation",
+    "group": "Catastrophe",
+    "definition": "Analytical tag: Divine regret or reconciliation. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "staff-rod-scepter",
+    "name": "Staff / rod / scepter",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Staff / rod / scepter. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "staff",
+    "name": "Staff",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Staff. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "rod",
+    "name": "Rod",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Rod. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "scepter",
+    "name": "Scepter",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Scepter. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "wand",
+    "name": "Wand",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Wand. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "crook",
+    "name": "Crook",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Crook. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "serpent-staff",
+    "name": "Serpent staff",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Serpent staff. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "magical-wand",
+    "name": "Magical wand",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Magical wand. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "shepherd-s-staff",
+    "name": "Shepherd’s staff",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Shepherd’s staff. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "royal-scepter",
+    "name": "Royal scepter",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Royal scepter. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "divine-weapon",
+    "name": "Divine weapon",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Divine weapon. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "thunderbolt",
+    "name": "Thunderbolt",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Thunderbolt. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "tablet",
+    "name": "Tablet",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Tablet. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "ring",
+    "name": "Ring",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Ring. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "crown",
+    "name": "Crown",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Crown. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "tree",
+    "name": "Tree",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Tree. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "serpent",
+    "name": "Serpent",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Serpent. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  },
+  {
+    "id": "sacred-stone",
+    "name": "Sacred stone",
+    "group": "Symbols / objects",
+    "definition": "Analytical tag: Sacred stone. Record a passage-specific occurrence; matching tags do not demonstrate transmission.",
+    "scope_note": "An empty result means no occurrence has been documented here, not absence in the tradition."
+  }
+]

@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+import { validateCorpus } from './validate-data.mjs';
+import { loadCorpus } from './load-data.mjs';
+const result=validateCorpus(loadCorpus());console.log(JSON.stringify(result,null,2));process.exitCode=result.errors.length?1:0;

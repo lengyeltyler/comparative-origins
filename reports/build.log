@@ -1,0 +1,53 @@
+
+> comparative-origins@0.1.0 build
+> npm run validate && npm run generate && npm run typecheck && npm run build:static
+
+
+> comparative-origins@0.1.0 validate
+> node scripts/validate-data.mjs
+
+{
+  "status": "PASS",
+  "counts": {
+    "texts": 11,
+    "sources": 33,
+    "motifs": 67,
+    "occurrences": 68,
+    "objects": 4,
+    "variants": 1,
+    "relationships": 2,
+    "contacts": 1,
+    "figures": 55,
+    "locations": 12,
+    "traditions": 6,
+    "research": 7,
+    "expansions": 17
+  },
+  "errors": [],
+  "unresolved_fields": 62,
+  "scope": "Structural integrity and citation resolution; not independent historical verification."
+}
+
+> comparative-origins@0.1.0 generate
+> node scripts/build-comparisons.mjs && node scripts/generate-timeline.mjs
+
+Generated corpus, 11-text comparisons and bibliography.
+Generated three separately typed timelines.
+
+> comparative-origins@0.1.0 typecheck
+> tsc --noEmit
+
+
+> comparative-origins@0.1.0 build:static
+> vite build --config site/vite.config.ts
+
+vite v8.2.2 building client environment for production...
+transforming...
+✓ 2018 modules transformed.
+rendering chunks...
+computing gzip size...
+site/dist/index.html                   0.89 kB │ gzip:   0.51 kB
+site/dist/assets/index-Dn_3G_k2.css  196.77 kB │ gzip:  31.30 kB
+site/dist/assets/index-7E97JOc5.js   547.73 kB │ gzip: 153.52 kB
+
+✓ built in 341ms

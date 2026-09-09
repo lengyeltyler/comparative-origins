@@ -1,0 +1,797 @@
+[
+  {
+    "id": "alalu",
+    "name": "Alalu",
+    "texts": [
+      "kumarbi"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "powell-kumarbi",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "an",
+    "name": "An",
+    "texts": [
+      "eridu-genesis"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "etcsl-flood",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "anshar",
+    "name": "Anshar",
+    "texts": [
+      "enuma-elish"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "anu",
+    "name": "Anu",
+    "texts": [
+      "enuma-elish",
+      "kumarbi"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      },
+      {
+        "source": "powell-kumarbi",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "apsu",
+    "name": "Apsu",
+    "texts": [
+      "enuma-elish"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "athirat",
+    "name": "Athirat",
+    "texts": [
+      "baal-cycle"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "atrahasis",
+    "name": "Atrahasis",
+    "texts": [
+      "atrahasis"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "millard-atra",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "atum",
+    "name": "Atum",
+    "texts": [
+      "heliopolitan",
+      "memphite"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "pt-allen",
+        "locator": "Source heading / catalogue"
+      },
+      {
+        "source": "bm-shabaka",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "baal",
+    "name": "Baal",
+    "texts": [
+      "baal-cycle"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "chaos",
+    "name": "Chaos",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "cyclopes",
+    "name": "Cyclopes",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "ea",
+    "name": "Ea",
+    "texts": [
+      "enuma-elish",
+      "kumarbi"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      },
+      {
+        "source": "powell-kumarbi",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "el",
+    "name": "El",
+    "texts": [
+      "baal-cycle"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "enki",
+    "name": "Enki",
+    "texts": [
+      "eridu-genesis",
+      "atrahasis"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "etcsl-flood",
+        "locator": "Source heading / catalogue"
+      },
+      {
+        "source": "millard-atra",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "enlil",
+    "name": "Enlil",
+    "texts": [
+      "eridu-genesis",
+      "atrahasis"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "etcsl-flood",
+        "locator": "Source heading / catalogue"
+      },
+      {
+        "source": "millard-atra",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "eros",
+    "name": "Eros",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "gaia",
+    "name": "Gaia",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "god",
+    "name": "God",
+    "texts": [
+      "genesis-1"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "gen-1",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "heh",
+    "name": "Heh",
+    "texts": [
+      "hermopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "hehet",
+    "name": "Hehet",
+    "texts": [
+      "hermopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "hesiod",
+    "name": "Hesiod",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "human",
+    "name": "Human",
+    "texts": [
+      "genesis-2-3"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "gen-2",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "hundred-handers",
+    "name": "Hundred-Handers",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "kek",
+    "name": "Kek",
+    "texts": [
+      "hermopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "keket",
+    "name": "Keket",
+    "texts": [
+      "hermopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "kishar",
+    "name": "Kishar",
+    "texts": [
+      "enuma-elish"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "kothar-wa-hasis",
+    "name": "Kothar-wa-Hasis",
+    "texts": [
+      "baal-cycle"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "kronos",
+    "name": "Kronos",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "kumarbi",
+    "name": "Kumarbi",
+    "texts": [
+      "kumarbi"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "powell-kumarbi",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "lahamu",
+    "name": "Lahamu",
+    "texts": [
+      "enuma-elish"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "lahmu",
+    "name": "Lahmu",
+    "texts": [
+      "enuma-elish"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "marduk",
+    "name": "Marduk",
+    "texts": [
+      "enuma-elish"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "mot",
+    "name": "Mot",
+    "texts": [
+      "baal-cycle"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "muses",
+    "name": "Muses",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "ninhursaga",
+    "name": "Ninhursaga",
+    "texts": [
+      "eridu-genesis"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "etcsl-flood",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "nintu",
+    "name": "Nintu",
+    "texts": [
+      "atrahasis"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "millard-atra",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "nun",
+    "name": "Nun",
+    "texts": [
+      "hermopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "nunet",
+    "name": "Nunet",
+    "texts": [
+      "hermopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "ouranos",
+    "name": "Ouranos",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "prometheus",
+    "name": "Prometheus",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "ptah",
+    "name": "Ptah",
+    "texts": [
+      "memphite"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "bm-shabaka",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "serpent",
+    "name": "Serpent",
+    "texts": [
+      "genesis-2-3"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "gen-2",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "shu",
+    "name": "Shu",
+    "texts": [
+      "heliopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "pt-allen",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "tartarus",
+    "name": "Tartarus",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "tefnut",
+    "name": "Tefnut",
+    "texts": [
+      "heliopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "pt-allen",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "tenem",
+    "name": "Tenem",
+    "texts": [
+      "hermopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "tenemet",
+    "name": "Tenemet",
+    "texts": [
+      "hermopolitan"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "teshub",
+    "name": "Teshub",
+    "texts": [
+      "kumarbi"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "powell-kumarbi",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "tiamat",
+    "name": "Tiamat",
+    "texts": [
+      "enuma-elish"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "utu",
+    "name": "Utu",
+    "texts": [
+      "eridu-genesis"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "etcsl-flood",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "woman",
+    "name": "Woman",
+    "texts": [
+      "genesis-2-3"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "gen-2",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "yhwh-god",
+    "name": "YHWH God",
+    "texts": [
+      "genesis-2-3"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "gen-2",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "yam",
+    "name": "Yam",
+    "texts": [
+      "baal-cycle"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "zeus",
+    "name": "Zeus",
+    "texts": [
+      "theogony"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  },
+  {
+    "id": "ziusudra",
+    "name": "Ziusudra",
+    "texts": [
+      "eridu-genesis"
+    ],
+    "note": "Index of named figures in the selected dossier; no cross-cultural identity is implied.",
+    "citations": [
+      {
+        "source": "etcsl-flood",
+        "locator": "Source heading / catalogue"
+      }
+    ]
+  }
+]

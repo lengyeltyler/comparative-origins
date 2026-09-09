@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "genesis-1--primordial-state",
+    "text": "genesis-1",
+    "motif": "primordial-state",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Earth is unformed; darkness lies over the deep and waters.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--primordial-waters",
+    "text": "genesis-1",
+    "motif": "primordial-waters",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Earth is unformed; darkness lies over the deep and waters.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--darkness",
+    "text": "genesis-1",
+    "motif": "darkness",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Earth is unformed; darkness lies over the deep and waters.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--chaos-unordered-state",
+    "text": "genesis-1",
+    "motif": "chaos-unordered-state",
+    "attestation": "interpretive",
+    "claim": {
+      "text": "Earth is unformed; darkness lies over the deep and waters.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--creation-order",
+    "text": "genesis-1",
+    "motif": "creation-order",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Speech, separation and naming structure the account.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:3–10"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--creation-by-speech",
+    "text": "genesis-1",
+    "motif": "creation-by-speech",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Speech, separation and naming structure the account.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:3–10"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--light-emerging-from-darkness",
+    "text": "genesis-1",
+    "motif": "light-emerging-from-darkness",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Speech, separation and naming structure the account.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:3–10"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--human-creation",
+    "text": "genesis-1",
+    "motif": "human-creation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Humans, male and female, are created in the divine image.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:26–27"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--divine-image",
+    "text": "genesis-1",
+    "motif": "divine-image",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Humans, male and female, are created in the divine image.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:26–27"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--divine-council",
+    "text": "genesis-1",
+    "motif": "divine-council",
+    "attestation": "interpretive",
+    "claim": {
+      "text": "Reading the plural in 1:26 as a divine council is an interpretive proposal; this record does not settle its referent.",
+      "category": "speculation",
+      "confidence": "low",
+      "status": "documented",
+      "label": "SPECULATION",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:26"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--human-creation",
+    "text": "genesis-2-3",
+    "motif": "human-creation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The human is formed from ground-dust and receives the breath of life.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--humanity-from-earth",
+    "text": "genesis-2-3",
+    "motif": "humanity-from-earth",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The human is formed from ground-dust and receives the breath of life.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--divine-breath-life",
+    "text": "genesis-2-3",
+    "motif": "divine-breath-life",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The human is formed from ground-dust and receives the breath of life.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--serpent",
+    "text": "genesis-2-3",
+    "motif": "serpent",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The serpent speaks; the humans eat; access to the tree of life is blocked.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-3",
+          "locator": "3:1–7, 22–24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--forbidden-knowledge",
+    "text": "genesis-2-3",
+    "motif": "forbidden-knowledge",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The serpent speaks; the humans eat; access to the tree of life is blocked.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-3",
+          "locator": "3:1–7, 22–24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--knowledge",
+    "text": "genesis-2-3",
+    "motif": "knowledge",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The serpent speaks; the humans eat; access to the tree of life is blocked.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-3",
+          "locator": "3:1–7, 22–24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--tree",
+    "text": "genesis-2-3",
+    "motif": "tree",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The serpent speaks; the humans eat; access to the tree of life is blocked.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-3",
+          "locator": "3:1–7, 22–24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--mortality",
+    "text": "genesis-2-3",
+    "motif": "mortality",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The serpent speaks; the humans eat; access to the tree of life is blocked.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-3",
+          "locator": "3:1–7, 22–24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-2-3--humans-becoming-like-gods",
+    "text": "genesis-2-3",
+    "motif": "humans-becoming-like-gods",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The text says the human has become “like one of us”; identities are not enumerated.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-3",
+          "locator": "3:22"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eridu-genesis--human-creation",
+    "text": "eridu-genesis",
+    "motif": "human-creation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Fashioning is stated, but these lines give no material or detailed process.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "A 10–14"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eridu-genesis--divine-council",
+    "text": "eridu-genesis",
+    "motif": "divine-council",
+    "attestation": "explicit",
+    "claim": {
+      "text": "A divine assembly decrees the flood.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "C 1–27"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eridu-genesis--flood",
+    "text": "eridu-genesis",
+    "motif": "flood",
+    "attestation": "explicit",
+    "claim": {
+      "text": "A divine assembly decrees the flood.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "C 1–27"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eridu-genesis--divine-destruction-of-humanity",
+    "text": "eridu-genesis",
+    "motif": "divine-destruction-of-humanity",
+    "attestation": "explicit",
+    "claim": {
+      "text": "A divine assembly decrees the flood.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "C 1–27"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eridu-genesis--chosen-survivor",
+    "text": "eridu-genesis",
+    "motif": "chosen-survivor",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Ziusudra survives in a large boat and sacrifices after the storm.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "Segment D 1–11"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eridu-genesis--boat-ark",
+    "text": "eridu-genesis",
+    "motif": "boat-ark",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Ziusudra survives in a large boat and sacrifices after the storm.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "Segment D 1–11"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eridu-genesis--sacrifice-afterward",
+    "text": "eridu-genesis",
+    "motif": "sacrifice-afterward",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Ziusudra survives in a large boat and sacrifices after the storm.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "Segment D 1–11"
+        }
+      ]
+    }
+  },
+  {
+    "id": "atrahasis--human-creation",
+    "text": "atrahasis",
+    "motif": "human-creation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Nintu mixes clay with a slain god’s flesh and blood.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "millard-atra",
+          "locator": "Tablet I, creation passage; thesis p. 42, iv 39–57"
+        }
+      ]
+    }
+  },
+  {
+    "id": "atrahasis--humanity-from-clay",
+    "text": "atrahasis",
+    "motif": "humanity-from-clay",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Nintu mixes clay with a slain god’s flesh and blood.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "millard-atra",
+          "locator": "Tablet I, creation passage; thesis p. 42, iv 39–57"
+        }
+      ]
+    }
+  },
+  {
+    "id": "atrahasis--divine-blood",
+    "text": "atrahasis",
+    "motif": "divine-blood",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Nintu mixes clay with a slain god’s flesh and blood.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "millard-atra",
+          "locator": "Tablet I, creation passage; thesis p. 42, iv 39–57"
+        }
+      ]
+    }
+  },
+  {
+    "id": "atrahasis--humans-created-to-labor",
+    "text": "atrahasis",
+    "motif": "humans-created-to-labor",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Humans take over divine labor after the gods protest.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "millard-atra",
+          "locator": "Tablet I, labor dispute"
+        }
+      ]
+    }
+  },
+  {
+    "id": "atrahasis--rebellion",
+    "text": "atrahasis",
+    "motif": "rebellion",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Humans take over divine labor after the gods protest.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "millard-atra",
+          "locator": "Tablet I, labor dispute"
+        }
+      ]
+    }
+  },
+  {
+    "id": "atrahasis--divine-council",
+    "text": "atrahasis",
+    "motif": "divine-council",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The assembly approves the creation plan.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "millard-atra",
+          "locator": "Tablet I, iv 49–57"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--primordial-state",
+    "text": "enuma-elish",
+    "motif": "primordial-state",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Apsu and Tiamat mingle their waters before the naming of heaven and earth.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablet I, opening"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--primordial-waters",
+    "text": "enuma-elish",
+    "motif": "primordial-waters",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Apsu and Tiamat mingle their waters before the naming of heaven and earth.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablet I, opening"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--primordial-gods",
+    "text": "enuma-elish",
+    "motif": "primordial-gods",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Apsu and Tiamat; subsequent generations include Lahmu, Lahamu, Anshar and Kishar.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablet I, opening genealogy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--divine-generation",
+    "text": "enuma-elish",
+    "motif": "divine-generation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Apsu and Tiamat; subsequent generations include Lahmu, Lahamu, Anshar and Kishar.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablet I, opening genealogy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--younger-gods",
+    "text": "enuma-elish",
+    "motif": "younger-gods",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Apsu and Tiamat; subsequent generations include Lahmu, Lahamu, Anshar and Kishar.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablet I, opening genealogy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--divine-council",
+    "text": "enuma-elish",
+    "motif": "divine-council",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The gods assemble and establish Marduk’s authority.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablets II–III"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--divine-succession",
+    "text": "enuma-elish",
+    "motif": "divine-succession",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The gods assemble and establish Marduk’s authority.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablets II–III"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--primordial-state",
+    "text": "theogony",
+    "motif": "primordial-state",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Chaos comes first, followed by Gaia, Tartarus and Eros.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "116–122"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--primordial-gods",
+    "text": "theogony",
+    "motif": "primordial-gods",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Chaos comes first, followed by Gaia, Tartarus and Eros.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "116–122"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--divine-generation",
+    "text": "theogony",
+    "motif": "divine-generation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Divine generation and struggles over rule organize the genealogy.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "116–210; 453–506"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--creation-order",
+    "text": "theogony",
+    "motif": "creation-order",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Divine generation and struggles over rule organize the genealogy.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "116–210; 453–506"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--divine-succession",
+    "text": "theogony",
+    "motif": "divine-succession",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Kronos attacks Ouranos; Zeus’s generation later fights the Titans.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "154–182; 617–735"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--rebellion",
+    "text": "theogony",
+    "motif": "rebellion",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Kronos attacks Ouranos; Zeus’s generation later fights the Titans.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "154–182; 617–735"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--overthrow-of-older-generation",
+    "text": "theogony",
+    "motif": "overthrow-of-older-generation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Kronos attacks Ouranos; Zeus’s generation later fights the Titans.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "154–182; 617–735"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--war-in-heaven",
+    "text": "theogony",
+    "motif": "war-in-heaven",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Kronos attacks Ouranos; Zeus’s generation later fights the Titans.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "154–182; 617–735"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--chaos-unordered-state",
+    "text": "theogony",
+    "motif": "chaos-unordered-state",
+    "attestation": "interpretive",
+    "claim": {
+      "text": "Hesiod’s Chaos is the named first beginning; its equation with generic disorder is an analytical comparison, not a lexical identity.",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "116–125"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hermopolitan--primordial-state",
+    "text": "hermopolitan",
+    "motif": "primordial-state",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "Watery expanse, unendingness, darkness and lack of direction in the CT 76 grouping.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ucl-creation",
+          "locator": "Before creation; CT 76"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hermopolitan--primordial-waters",
+    "text": "hermopolitan",
+    "motif": "primordial-waters",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "Watery expanse, unendingness, darkness and lack of direction in the CT 76 grouping.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ucl-creation",
+          "locator": "Before creation; CT 76"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hermopolitan--darkness",
+    "text": "hermopolitan",
+    "motif": "darkness",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "Watery expanse, unendingness, darkness and lack of direction in the CT 76 grouping.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ucl-creation",
+          "locator": "Before creation; CT 76"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hermopolitan--primordial-gods",
+    "text": "hermopolitan",
+    "motif": "primordial-gods",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "Four pairs; CT 76 includes Tenem and Tenemet, not the Amun pair familiar from later lists.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ucl-creation",
+          "locator": "Before creation; CT 76"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heliopolitan--divine-generation",
+    "text": "heliopolitan",
+    "motif": "divine-generation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Atum masturbates; Shu and Tefnut are born.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "pt-allen",
+          "locator": "PT 527 (§1248)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "memphite--creation-by-speech",
+    "text": "memphite",
+    "motif": "creation-by-speech",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "The catalogue identifies creation through the spoken word.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "bm-shabaka",
+          "locator": "Description"
+        }
+      ]
+    }
+  },
+  {
+    "id": "memphite--creation-order",
+    "text": "memphite",
+    "motif": "creation-order",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "The catalogue identifies creation through the spoken word.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "bm-shabaka",
+          "locator": "Description"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kumarbi--divine-succession",
+    "text": "kumarbi",
+    "motif": "divine-succession",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "Anu overthrows Alalu; Kumarbi attacks Anu.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "powell-kumarbi",
+          "locator": "p. 12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kumarbi--rebellion",
+    "text": "kumarbi",
+    "motif": "rebellion",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "Anu overthrows Alalu; Kumarbi attacks Anu.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "powell-kumarbi",
+          "locator": "p. 12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kumarbi--overthrow-of-older-generation",
+    "text": "kumarbi",
+    "motif": "overthrow-of-older-generation",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "Anu overthrows Alalu; Kumarbi attacks Anu.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "powell-kumarbi",
+          "locator": "p. 12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kumarbi--divine-generation",
+    "text": "kumarbi",
+    "motif": "divine-generation",
+    "attestation": "reported-via-scholarship",
+    "claim": {
+      "text": "Kumarbi bites off Anu’s genitals and becomes pregnant.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "powell-kumarbi",
+          "locator": "p. 12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "baal-cycle--divine-weapon",
+    "text": "baal-cycle",
+    "motif": "divine-weapon",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Kothar makes named clubs; Baal strikes and defeats Yam.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ugarit-baal",
+          "locator": "KTU 1.2 iv"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--staff-rod-scepter",
+    "text": "theogony",
+    "motif": "staff-rod-scepter",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The Muses give Hesiod a laurel staff and a divine voice.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "22–35"
+        }
+      ]
+    }
+  },
+  {
+    "id": "theogony--scepter",
+    "text": "theogony",
+    "motif": "scepter",
+    "attestation": "explicit",
+    "claim": {
+      "text": "The gift is a skēptron; it is accompanied by poetic inspiration.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "30–34"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--creation-from-body-of-deity",
+    "text": "enuma-elish",
+    "motif": "creation-from-body-of-deity",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Marduk splits Tiamat’s body and makes a sky-roof from one half, containing her waters.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "heidel",
+          "locator": "Enuma Elish IV 137–140 (printed p. 42)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--creation-through-conflict",
+    "text": "enuma-elish",
+    "motif": "creation-through-conflict",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Marduk splits Tiamat’s body and makes a sky-roof from one half, containing her waters.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "heidel",
+          "locator": "Enuma Elish IV 137–140 (printed p. 42)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--human-creation",
+    "text": "enuma-elish",
+    "motif": "human-creation",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Humanity is made from Qingu’s blood to perform the gods’ work. Ea carries out the creation.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "heidel",
+          "locator": "Enuma Elish VI 29–36 (printed p. 47)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--divine-blood",
+    "text": "enuma-elish",
+    "motif": "divine-blood",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Humanity is made from Qingu’s blood to perform the gods’ work. Ea carries out the creation.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "heidel",
+          "locator": "Enuma Elish VI 29–36 (printed p. 47)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enuma-elish--humans-created-to-labor",
+    "text": "enuma-elish",
+    "motif": "humans-created-to-labor",
+    "attestation": "explicit",
+    "claim": {
+      "text": "Humanity is made from Qingu’s blood to perform the gods’ work. Ea carries out the creation.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "heidel",
+          "locator": "Enuma Elish VI 29–36 (printed p. 47)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "genesis-1--separation-of-heaven-and-earth",
+    "text": "genesis-1",
+    "motif": "separation-of-heaven-and-earth",
+    "attestation": "interpretive",
+    "claim": {
+      "text": "The expanse divides waters above from waters below. Mapping this to “separation of heaven and earth” is an analytical association, not identical wording.",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:6–10"
+        }
+      ]
+    }
+  }
+]

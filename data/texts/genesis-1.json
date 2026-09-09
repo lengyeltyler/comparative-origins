@@ -1,0 +1,224 @@
+{
+  "id": "genesis-1",
+  "title": "Genesis 1 (through 2:3)",
+  "tradition": "hebrew",
+  "culture": "Hebrew / Israelite / Jewish",
+  "language": "Biblical Hebrew",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "gen-1",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Primordial creation; not assigned a historical calendar date.",
+    "category": "primary-evidence",
+    "confidence": "high",
+    "status": "documented",
+    "label": "PRIMARY SOURCE",
+    "citations": [
+      {
+        "source": "gen-1",
+        "locator": "Narrative setting"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "TODO: Composition date and competing proposals require a sourced review.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "composition",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "surviving_manuscript": {
+    "label": "1008–1009 CE: selected MT codex",
+    "start": 1008,
+    "end": 1009,
+    "status": "documented",
+    "scope": "individual-witness",
+    "confidence": "high",
+    "citations": [
+      {
+        "source": "leningrad",
+        "locator": "Date; shelfmark"
+      }
+    ]
+  },
+  "earliest_witness": {
+    "label": "TODO: Earliest physical witness not yet established for this exact passage.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "Selected manuscript: National Library of Russia, EVR I B 19a. Composition location remains unassigned.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "leningrad",
+        "locator": "Shelfmark"
+      }
+    ]
+  },
+  "primary_sources": [
+    "gen-1",
+    "gen-2",
+    "gen-3"
+  ],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [
+    "Leningrad Codex (EVR I B 19a)",
+    "4Q1 (catalogued; passage coverage TODO)"
+  ],
+  "motifs": [
+    "chaos-unordered-state",
+    "creation-by-speech",
+    "creation-order",
+    "darkness",
+    "divine-council",
+    "divine-image",
+    "human-creation",
+    "light-emerging-from-darkness",
+    "primordial-state",
+    "primordial-waters",
+    "separation-of-heaven-and-earth"
+  ],
+  "figures": [
+    "God"
+  ],
+  "objects": [],
+  "places": [],
+  "related_texts": [
+    "genesis-2-3"
+  ],
+  "bibliography": [
+    "gen-1",
+    "gen-2",
+    "gen-3",
+    "leningrad",
+    "dss-4q1",
+    "tov-gen22"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "Earth is unformed; darkness lies over the deep and waters.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:2"
+        }
+      ]
+    },
+    "first-actors": {
+      "text": "God creates and speaks.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:1–3"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "Speech, separation and naming structure the account.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:3–10"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "Humans, male and female, are created in the divine image.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:26–27"
+        }
+      ]
+    },
+    "divine-structure": {
+      "text": "A plural deliberation appears at 1:26; the referent of “us” requires interpretation.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:26"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "TODO: Do not import the tree prohibition or expulsion from Genesis 2–3 into this unit.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    }
+  },
+  "claims": [],
+  "original_terms": [
+    {
+      "original": "תְהוֹם",
+      "transliteration": "təhôm",
+      "gloss": "deep",
+      "language": "Biblical Hebrew",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:2"
+        }
+      ]
+    },
+    {
+      "original": "תֹהוּ וָבֹהוּ",
+      "transliteration": "tōhû wāḇōhû",
+      "gloss": "unformed / waste and emptiness (gloss; nuance disputed)",
+      "language": "Biblical Hebrew",
+      "citations": [
+        {
+          "source": "gen-1",
+          "locator": "1:2"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Greek, Samaritan and Qumran witnesses require individual dates and verse-level inventories. A text family is not a single manuscript.",
+    "Dating the selected medieval codex does not date Genesis composition.",
+    "Composition models are not assigned an unsupported consensus label."
+  ]
+}

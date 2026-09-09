@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "counts": {
+    "texts": 11,
+    "sources": 33,
+    "motifs": 67,
+    "occurrences": 68,
+    "objects": 4,
+    "variants": 1,
+    "relationships": 2,
+    "contacts": 1,
+    "figures": 55,
+    "locations": 12,
+    "traditions": 6,
+    "research": 7,
+    "expansions": 17
+  },
+  "errors": [],
+  "unresolved_fields": 62,
+  "scope": "Structural integrity and citation resolution; not independent historical verification."
+}

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "genesis-2-2",
+    "title": "Genesis 2:2 — sixth or seventh day?",
+    "text": "genesis-1",
+    "passage": "Genesis 2:2",
+    "witnesses": [
+      {
+        "id": "mt",
+        "name": "Masoretic reading text",
+        "language": "Hebrew",
+        "original": "בַּיּוֹם הַשְּׁבִיעִי",
+        "transliteration": "bayyôm haššəḇîʿî",
+        "translation": "on the seventh day",
+        "status": "documented",
+        "manuscript": "Reading edition; selected MT codex EVR I B 19a is catalogued separately.",
+        "citations": [
+          {
+            "source": "gen-2",
+            "locator": "2:2"
+          }
+        ]
+      },
+      {
+        "id": "lxx",
+        "name": "Septuagint reading reported by Tov",
+        "language": "Greek",
+        "original": "ἐν τῇ ἡμέρᾳ τῇ ἕκτῃ",
+        "transliteration": "en tē hēmera tē hektē",
+        "translation": "on the sixth day",
+        "status": "documented",
+        "manuscript": "Edition-level reading; individual Greek manuscript collation TODO.",
+        "citations": [
+          {
+            "source": "tov-gen22",
+            "locator": "Footnote 1"
+          }
+        ]
+      },
+      {
+        "id": "sp",
+        "name": "Samaritan Pentateuch reading reported by Tov",
+        "language": "Hebrew",
+        "original": "ביום הששי",
+        "transliteration": "bywm hššy (consonantal)",
+        "translation": "on the sixth day",
+        "status": "documented",
+        "manuscript": "Normalized square Hebrew presentation, not a Samaritan-script facsimile; individual witness TODO.",
+        "citations": [
+          {
+            "source": "tov-gen22",
+            "locator": "Parallel text"
+          }
+        ]
+      },
+      {
+        "id": "dss",
+        "name": "Dead Sea Scrolls",
+        "language": "Hebrew",
+        "original": null,
+        "transliteration": null,
+        "translation": null,
+        "status": "todo",
+        "manuscript": "TODO: no Qumran reading is asserted for this verse. 4Q1 catalogue is a discovery lead, not proof of verse coverage.",
+        "citations": [
+          {
+            "source": "dss-4q1",
+            "locator": "Manuscript catalogue; Davila 1994 reference"
+          }
+        ]
+      }
+    ],
+    "meaning": {
+      "text": "The variant changes the day on which God completes the work; both forms place rest on the seventh.",
+      "category": "textual-reconstruction",
+      "confidence": "high",
+      "status": "documented",
+      "label": "DISPUTED",
+      "citations": [
+        {
+          "source": "tov-gen22",
+          "locator": "Parallel text"
+        }
+      ]
+    },
+    "possible_reason": {
+      "text": "Tov argues that “sixth” eases the apparent problem of God working on the Sabbath.",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "tov-gen22",
+          "locator": "Argument after parallel text"
+        }
+      ]
+    },
+    "assessment": {
+      "text": "Tov favors the more difficult “seventh” here. This is an attributed judgment, not a rule that MT is always earlier.",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "tov-gen22",
+          "locator": "Concluding argument"
+        }
+      ]
+    },
+    "traditional": {
+      "text": "Rashi’s discussion includes the idea that Sabbath rest itself completed creation.",
+      "category": "traditional-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "TRADITIONAL INTERPRETATION",
+      "citations": [
+        {
+          "source": "tov-gen22",
+          "locator": "Rashi quotation, second interpretation"
+        }
+      ]
+    }
+  }
+]

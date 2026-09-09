@@ -1,0 +1,182 @@
+{
+  "id": "baal-cycle",
+  "title": "Ugaritic Baal Cycle",
+  "tradition": "ugaritic",
+  "culture": "Ugaritic / Canaanite",
+  "language": "Ugaritic",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "ugarit-baal",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Divine conflict and kingship.",
+    "category": "primary-evidence",
+    "confidence": "high",
+    "status": "documented",
+    "label": "PRIMARY SOURCE",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Narrative setting"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "TODO: Composition date and competing proposals require a sourced review.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "composition",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "surviving_manuscript": {
+    "label": "TODO: Assign dates to named witnesses.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "individual-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "earliest_witness": {
+    "label": "TODO: Earliest physical witness not yet established for this exact passage.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "RS 3.367 iv = CTA 2 iv = KTU 1.2 iv, Ugarit.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "ugarit-baal",
+        "locator": "Excerpt heading"
+      }
+    ]
+  },
+  "primary_sources": [
+    "ugarit-baal"
+  ],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [
+    "RS 3.367 iv / KTU 1.2 iv"
+  ],
+  "motifs": [
+    "divine-weapon"
+  ],
+  "figures": [
+    "Baal",
+    "Yam",
+    "Mot",
+    "Kothar-wa-Hasis",
+    "El",
+    "Athirat"
+  ],
+  "objects": [],
+  "places": [
+    "Ugarit"
+  ],
+  "related_texts": [],
+  "bibliography": [
+    "ugarit-baal",
+    "met-ugarit",
+    "fisher-ugarit"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "No complete world-creation narrative is supplied by the preserved Baal Cycle. The creation significance of combat is debated.",
+      "category": "historical-interpretation",
+      "confidence": "moderate",
+      "status": "documented",
+      "label": "DISPUTED",
+      "citations": [
+        {
+          "source": "fisher-ugarit",
+          "locator": "pp. 313–324"
+        }
+      ]
+    },
+    "first-actors": {
+      "text": "Baal, Yam and the craftsman Kothar-wa-Hasis in the selected episode.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ugarit-baal",
+          "locator": "KTU 1.2 iv"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "Kothar makes named clubs; Baal strikes and defeats Yam.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ugarit-baal",
+          "locator": "KTU 1.2 iv"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "TODO: No human-creation passage collated in this dossier.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    },
+    "divine-structure": {
+      "text": "The episode concerns Baal’s claim to kingship.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "ugarit-baal",
+          "locator": "KTU 1.2 iv"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "Other episodes concern Baal and Mot; these await passage-level entry.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ugarit-baal",
+          "locator": "Narrative overview"
+        }
+      ]
+    }
+  },
+  "claims": [],
+  "original_terms": [],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Date the individual tablets; regional archive dates are not automatically tablet dates.",
+    "Collate El, Athirat and council passages rather than projecting later Asherah traditions backward."
+  ]
+}

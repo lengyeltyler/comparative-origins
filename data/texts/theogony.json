@@ -1,0 +1,205 @@
+{
+  "id": "theogony",
+  "title": "Hesiod’s Theogony",
+  "tradition": "greek",
+  "culture": "Greek",
+  "language": "Ancient Greek",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "hesiod",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Divine origins and the establishment of Zeus’s rule.",
+    "category": "primary-evidence",
+    "confidence": "high",
+    "status": "documented",
+    "label": "PRIMARY SOURCE",
+    "citations": [
+      {
+        "source": "hesiod",
+        "locator": "Narrative setting"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "700–660 BCE: span of cited proposals",
+    "start": -700,
+    "end": -660,
+    "status": "documented",
+    "scope": "composition",
+    "confidence": "moderate",
+    "citations": [
+      {
+        "source": "clay-date",
+        "locator": "Introduction p. 2 and note 6"
+      }
+    ]
+  },
+  "surviving_manuscript": {
+    "label": "TODO: Assign dates to named witnesses.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "individual-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "earliest_witness": {
+    "label": "TODO: Earliest physical witness not yet established for this exact passage.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "TODO: Verify provenance for each witness, not only the tradition.",
+    "category": "historical-interpretation",
+    "confidence": "unknown",
+    "status": "todo",
+    "label": "UNKNOWN",
+    "citations": []
+  },
+  "primary_sources": [
+    "hesiod"
+  ],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [],
+  "motifs": [
+    "chaos-unordered-state",
+    "creation-order",
+    "divine-generation",
+    "divine-succession",
+    "overthrow-of-older-generation",
+    "primordial-gods",
+    "primordial-state",
+    "rebellion",
+    "scepter",
+    "staff-rod-scepter",
+    "war-in-heaven"
+  ],
+  "figures": [
+    "Chaos",
+    "Gaia",
+    "Tartarus",
+    "Eros",
+    "Ouranos",
+    "Kronos",
+    "Zeus",
+    "Prometheus",
+    "Muses",
+    "Hesiod",
+    "Cyclopes",
+    "Hundred-Handers"
+  ],
+  "objects": [
+    "hesiod-scepter"
+  ],
+  "places": [
+    "Helicon"
+  ],
+  "related_texts": [],
+  "bibliography": [
+    "hesiod",
+    "perseus-hesiod",
+    "clay-date",
+    "scepter-scs"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "Chaos comes first, followed by Gaia, Tartarus and Eros.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "116–122"
+        }
+      ]
+    },
+    "first-actors": {
+      "text": "Chaos, Gaia, Tartarus and Eros; Gaia later bears Ouranos.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "116–132"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "Divine generation and struggles over rule organize the genealogy.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "116–210; 453–506"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "The first woman is fashioned at Zeus’s command; this passage is not a full origin of humanity.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "570–612"
+        }
+      ]
+    },
+    "divine-structure": {
+      "text": "Kronos attacks Ouranos; Zeus’s generation later fights the Titans.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "154–182; 617–735"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "Prometheus steals fire; Zeus responds by arranging the making of the woman.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "hesiod",
+          "locator": "535–612"
+        }
+      ]
+    }
+  },
+  "claims": [],
+  "original_terms": [],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Identify earliest papyrus witnesses and specific medieval manuscripts.",
+    "Do not insert a cosmic egg into Hesiod. Later Orphic material needs separate dated records.",
+    "The woman is not named Pandora in this Theogony passage; compare Works and Days separately."
+  ]
+}

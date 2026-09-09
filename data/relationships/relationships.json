@@ -1,0 +1,44 @@
+[
+  {
+    "id": "waters-genesis-enuma",
+    "from_text": "enuma-elish",
+    "to_text": "genesis-1",
+    "classification": "weak-parallel",
+    "confidence": "low",
+    "explanation": "Both openings involve waters. This broad similarity cannot identify a direct source, direction of borrowing, or common ancestor.",
+    "support": [
+      {
+        "source": "gen-1",
+        "locator": "1:2"
+      },
+      {
+        "source": "oregon-enuma",
+        "locator": "Tablet I, opening"
+      }
+    ],
+    "counterevidence": "Genesis’s God is not generated from a primordial divine pair in the cited passage.",
+    "chronology": "Composition dates are not resolved in these dossiers.",
+    "category": "speculation"
+  },
+  {
+    "id": "succession-kumarbi-hesiod",
+    "from_text": "kumarbi",
+    "to_text": "theogony",
+    "classification": "disputed",
+    "confidence": "moderate",
+    "explanation": "A specific sequence of divine overthrow and genital violence motivates comparison. An exact transmission chain is not established by this repository.",
+    "support": [
+      {
+        "source": "powell-kumarbi",
+        "locator": "p. 12"
+      },
+      {
+        "source": "hesiod",
+        "locator": "154–182"
+      }
+    ],
+    "counterevidence": "Different actors, mechanisms, and narrative settings; resemblance does not establish direct textual dependence.",
+    "chronology": "Hittite tablet group context precedes the cited proposals for Hesiod; the intermediary chain remains TODO.",
+    "category": "historical-interpretation"
+  }
+]

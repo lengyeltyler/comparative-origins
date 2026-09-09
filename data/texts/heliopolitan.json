@@ -1,0 +1,171 @@
+{
+  "id": "heliopolitan",
+  "title": "Heliopolitan / Atum material",
+  "tradition": "egyptian",
+  "culture": "Egypt",
+  "language": "Egyptian (Pyramid Texts)",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "pt-allen",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Divine generation in a funerary recitation.",
+    "category": "primary-evidence",
+    "confidence": "high",
+    "status": "documented",
+    "label": "PRIMARY SOURCE",
+    "citations": [
+      {
+        "source": "pt-allen",
+        "locator": "Narrative setting"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "TODO: Composition date and competing proposals require a sourced review.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "composition",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "surviving_manuscript": {
+    "label": "2350–2160 BCE: corpus context only",
+    "start": -2350,
+    "end": -2160,
+    "status": "documented",
+    "scope": "corpus-context",
+    "confidence": "moderate",
+    "citations": [
+      {
+        "source": "fitz-pt",
+        "locator": "Egyptian funerary literature"
+      }
+    ]
+  },
+  "earliest_witness": {
+    "label": "TODO: Earliest physical witness not yet established for this exact passage.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "TODO: Verify provenance for each witness, not only the tradition.",
+    "category": "historical-interpretation",
+    "confidence": "unknown",
+    "status": "todo",
+    "label": "UNKNOWN",
+    "citations": []
+  },
+  "primary_sources": [
+    "pt-allen"
+  ],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [],
+  "motifs": [
+    "divine-generation"
+  ],
+  "figures": [
+    "Atum",
+    "Shu",
+    "Tefnut"
+  ],
+  "objects": [],
+  "places": [
+    "Heliopolis",
+    "Saqqara"
+  ],
+  "related_texts": [
+    "hermopolitan",
+    "memphite"
+  ],
+  "bibliography": [
+    "pt-allen",
+    "fitz-pt",
+    "ucl-creation"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "TODO: PT 527 is a generation passage; do not attach an uncited water/void prelude.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    },
+    "first-actors": {
+      "text": "Atum, followed by Shu and Tefnut.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "pt-allen",
+          "locator": "PT 527 (§1248)"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "Atum masturbates; Shu and Tefnut are born.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "pt-allen",
+          "locator": "PT 527 (§1248)"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "TODO: No human-creation passage collated in this dossier.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    },
+    "divine-structure": {
+      "text": "Two divine offspring arise from Atum.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "pt-allen",
+          "locator": "PT 527 (§1248)"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "TODO: A funerary recitation must not be converted into an uncited origin-of-mortality narrative.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    }
+  },
+  "claims": [],
+  "original_terms": [],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Identify PT 527’s exact royal witnesses; the corpus range is not its earliest attestation.",
+    "Add PT 600, primeval mound, and later solar traditions as separate passages."
+  ]
+}

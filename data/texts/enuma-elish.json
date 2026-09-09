@@ -1,0 +1,213 @@
+{
+  "id": "enuma-elish",
+  "title": "Enuma Elish",
+  "tradition": "mesopotamian",
+  "culture": "Mesopotamia",
+  "language": "Akkadian",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "oregon-enuma",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Before heaven and earth are named.",
+    "category": "primary-evidence",
+    "confidence": "high",
+    "status": "documented",
+    "label": "PRIMARY SOURCE",
+    "citations": [
+      {
+        "source": "oregon-enuma",
+        "locator": "Narrative setting"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "TODO: Composition date and competing proposals require a sourced review.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "composition",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "surviving_manuscript": {
+    "label": "Neo-Assyrian; numerical range TODO",
+    "start": null,
+    "end": null,
+    "status": "documented",
+    "scope": "individual-witness",
+    "confidence": "high",
+    "citations": [
+      {
+        "source": "bm-enuma",
+        "locator": "Cultures/periods"
+      }
+    ]
+  },
+  "earliest_witness": {
+    "label": "TODO: Earliest physical witness not yet established for this exact passage.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "BM 98909: Temple of Nabu, Nineveh; Library of Ashurbanipal.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "bm-enuma",
+        "locator": "Findspot; Title"
+      }
+    ]
+  },
+  "primary_sources": [
+    "oregon-enuma",
+    "heidel"
+  ],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [
+    "BM 98909 (Tablet I fragment)"
+  ],
+  "motifs": [
+    "divine-council",
+    "divine-generation",
+    "divine-succession",
+    "primordial-gods",
+    "primordial-state",
+    "primordial-waters",
+    "younger-gods",
+    "creation-from-body-of-deity",
+    "creation-through-conflict",
+    "human-creation",
+    "divine-blood",
+    "humans-created-to-labor"
+  ],
+  "figures": [
+    "Apsu",
+    "Tiamat",
+    "Lahmu",
+    "Lahamu",
+    "Anshar",
+    "Kishar",
+    "Anu",
+    "Ea",
+    "Marduk"
+  ],
+  "objects": [],
+  "places": [
+    "Nineveh"
+  ],
+  "related_texts": [
+    "eridu-genesis",
+    "atrahasis"
+  ],
+  "bibliography": [
+    "oregon-enuma",
+    "bm-enuma",
+    "ebl",
+    "lmu-ebl",
+    "heidel"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "Apsu and Tiamat mingle their waters before the naming of heaven and earth.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablet I, opening"
+        }
+      ]
+    },
+    "first-actors": {
+      "text": "Apsu and Tiamat; subsequent generations include Lahmu, Lahamu, Anshar and Kishar.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablet I, opening genealogy"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "Marduk splits Tiamat’s body and makes a sky-roof from one half, containing her waters.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "heidel",
+          "locator": "Enuma Elish IV 137–140 (printed p. 42)"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "Humanity is made from Qingu’s blood to perform the gods’ work. Ea carries out the creation.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "heidel",
+          "locator": "Enuma Elish VI 29–36 (printed p. 47)"
+        }
+      ]
+    },
+    "divine-structure": {
+      "text": "The gods assemble and establish Marduk’s authority.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablets II–III"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "Ea discovers the plot against the younger gods.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "oregon-enuma",
+          "locator": "Tablet I, Apsu episode"
+        }
+      ]
+    }
+  },
+  "claims": [],
+  "original_terms": [],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Do not import “darkness,” “evil,” or a cosmic void from older editorial allegories.",
+    "Selected IV and VI summaries use Heidel (1951); complete current-edition collation of IV–VII remains open.",
+    "Do not repeat Heidel’s obsolete reading of IV 136; see the LMU eBL correction."
+  ]
+}

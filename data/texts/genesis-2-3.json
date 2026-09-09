@@ -1,0 +1,230 @@
+{
+  "id": "genesis-2-3",
+  "title": "Genesis 2–3 (from 2:4)",
+  "tradition": "hebrew",
+  "culture": "Hebrew / Israelite / Jewish",
+  "language": "Biblical Hebrew",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "gen-2",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Primordial creation; not assigned a historical calendar date.",
+    "category": "primary-evidence",
+    "confidence": "high",
+    "status": "documented",
+    "label": "PRIMARY SOURCE",
+    "citations": [
+      {
+        "source": "gen-2",
+        "locator": "Narrative setting"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "TODO: Composition date and competing proposals require a sourced review.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "composition",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "surviving_manuscript": {
+    "label": "1008–1009 CE: selected MT codex",
+    "start": 1008,
+    "end": 1009,
+    "status": "documented",
+    "scope": "individual-witness",
+    "confidence": "high",
+    "citations": [
+      {
+        "source": "leningrad",
+        "locator": "Date; shelfmark"
+      }
+    ]
+  },
+  "earliest_witness": {
+    "label": "TODO: Earliest physical witness not yet established for this exact passage.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "Selected manuscript: National Library of Russia, EVR I B 19a. Composition location remains unassigned.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "leningrad",
+        "locator": "Shelfmark"
+      }
+    ]
+  },
+  "primary_sources": [
+    "gen-2",
+    "gen-3"
+  ],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [
+    "Leningrad Codex (EVR I B 19a)",
+    "4Q1 (catalogued; passage coverage TODO)"
+  ],
+  "motifs": [
+    "divine-breath-life",
+    "forbidden-knowledge",
+    "human-creation",
+    "humanity-from-earth",
+    "humans-becoming-like-gods",
+    "knowledge",
+    "mortality",
+    "serpent",
+    "tree"
+  ],
+  "figures": [
+    "YHWH God",
+    "Human",
+    "Woman",
+    "Serpent"
+  ],
+  "objects": [],
+  "places": [
+    "Eden"
+  ],
+  "related_texts": [
+    "genesis-1"
+  ],
+  "bibliography": [
+    "gen-2",
+    "gen-3",
+    "leningrad",
+    "dss-4q1",
+    "tov-gen22"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "No field vegetation yet; rain and a human cultivator are lacking.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:5–6"
+        }
+      ]
+    },
+    "first-actors": {
+      "text": "YHWH God forms the human.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:7"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "Forming, breathing, planting and building describe divine actions.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:7–9, 21–22"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "The human is formed from ground-dust and receives the breath of life.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:7"
+        }
+      ]
+    },
+    "divine-structure": {
+      "text": "The text says the human has become “like one of us”; identities are not enumerated.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-3",
+          "locator": "3:22"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "The serpent speaks; the humans eat; access to the tree of life is blocked.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "gen-3",
+          "locator": "3:1–7, 22–24"
+        }
+      ]
+    }
+  },
+  "claims": [],
+  "original_terms": [
+    {
+      "original": "עָפָר",
+      "transliteration": "ʿāp̄ār",
+      "gloss": "dust; do not silently replace with clay",
+      "language": "Biblical Hebrew",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:7"
+        }
+      ]
+    },
+    {
+      "original": "נִשְׁמַת חַיִּים",
+      "transliteration": "nišmaṯ ḥayyîm",
+      "gloss": "breath of life",
+      "language": "Biblical Hebrew",
+      "citations": [
+        {
+          "source": "gen-2",
+          "locator": "2:7"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Greek, Samaritan and Qumran witnesses require individual dates and verse-level inventories. A text family is not a single manuscript.",
+    "Dating the selected medieval codex does not date Genesis composition.",
+    "Composition models are not assigned an unsupported consensus label."
+  ]
+}

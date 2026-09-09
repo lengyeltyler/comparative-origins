@@ -1,0 +1,200 @@
+{
+  "id": "eridu-genesis",
+  "title": "Eridu Genesis / Sumerian Flood Story",
+  "tradition": "mesopotamian",
+  "culture": "Mesopotamia",
+  "language": "Sumerian",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "etcsl-flood",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Human beginnings, cities, and a primordial flood.",
+    "category": "primary-evidence",
+    "confidence": "high",
+    "status": "documented",
+    "label": "PRIMARY SOURCE",
+    "citations": [
+      {
+        "source": "etcsl-flood",
+        "locator": "Narrative setting"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "TODO: Composition date and competing proposals require a sourced review.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "composition",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "surviving_manuscript": {
+    "label": "ca. 1650 BCE",
+    "start": -1650,
+    "end": -1650,
+    "status": "documented",
+    "scope": "individual-witness",
+    "confidence": "moderate",
+    "citations": [
+      {
+        "source": "penn-flood",
+        "locator": "Date Made / script dating"
+      }
+    ]
+  },
+  "earliest_witness": {
+    "label": "TODO: CBS10673 is documented here; do not infer it is the earliest without a witness census.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "CBS10673 + CBS10867; Nippur, Iraq.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "penn-flood",
+        "locator": "Provenience; Other Number"
+      }
+    ]
+  },
+  "primary_sources": [
+    "etcsl-flood"
+  ],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [
+    "CBS10673 + CBS10867 (CDLI P265876)"
+  ],
+  "motifs": [
+    "boat-ark",
+    "chosen-survivor",
+    "divine-council",
+    "divine-destruction-of-humanity",
+    "flood",
+    "human-creation",
+    "sacrifice-afterward"
+  ],
+  "figures": [
+    "An",
+    "Enlil",
+    "Enki",
+    "Ninhursaga",
+    "Ziusudra",
+    "Utu"
+  ],
+  "objects": [],
+  "places": [
+    "Nippur",
+    "Eridu"
+  ],
+  "related_texts": [
+    "atrahasis",
+    "enuma-elish"
+  ],
+  "bibliography": [
+    "etcsl-flood",
+    "penn-flood"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "Opening lost; no recoverable continuous account of the primordial state.",
+      "category": "textual-reconstruction",
+      "confidence": "high",
+      "status": "fragmentary",
+      "label": "DISPUTED",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "Segment A, opening lacuna"
+        }
+      ]
+    },
+    "first-actors": {
+      "text": "An, Enlil, Enki and Ninhursaga fashion people.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "A 10–14"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "People and animals are made; cities and kingship follow.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "A 10–14; B 6–18"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "Fashioning is stated, but these lines give no material or detailed process.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "A 10–14"
+        }
+      ]
+    },
+    "divine-structure": {
+      "text": "A divine assembly decrees the flood.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "C 1–27"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "Ziusudra receives life like a god after the flood.",
+      "category": "primary-evidence",
+      "confidence": "high",
+      "status": "documented",
+      "label": "PRIMARY SOURCE",
+      "citations": [
+        {
+          "source": "etcsl-flood",
+          "locator": "Segment E, concluding lines"
+        }
+      ]
+    }
+  },
+  "claims": [],
+  "original_terms": [],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Do not restore lost opening from Atrahasis or Genesis."
+  ]
+}

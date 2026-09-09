@@ -1,0 +1,176 @@
+{
+  "id": "hermopolitan",
+  "title": "Hermopolitan / Ogdoad material",
+  "tradition": "egyptian",
+  "culture": "Egypt",
+  "language": "Egyptian (Coffin Texts)",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "ucl-creation",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Conditions before creation, presented as divine pairs.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "ucl-creation",
+        "locator": "Before creation"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "TODO: Composition date and competing proposals require a sourced review.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "composition",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "surviving_manuscript": {
+    "label": "2025–1700 BCE: corpus context only",
+    "start": -2025,
+    "end": -1700,
+    "status": "documented",
+    "scope": "corpus-context",
+    "confidence": "moderate",
+    "citations": [
+      {
+        "source": "ucl-coffins",
+        "locator": "Coffin Texts overview"
+      }
+    ]
+  },
+  "earliest_witness": {
+    "label": "TODO: Earliest physical witness not yet established for this exact passage.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "TODO: Verify provenance for each witness, not only the tradition.",
+    "category": "historical-interpretation",
+    "confidence": "unknown",
+    "status": "todo",
+    "label": "UNKNOWN",
+    "citations": []
+  },
+  "primary_sources": [],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [],
+  "motifs": [
+    "darkness",
+    "primordial-gods",
+    "primordial-state",
+    "primordial-waters"
+  ],
+  "figures": [
+    "Nun",
+    "Nunet",
+    "Heh",
+    "Hehet",
+    "Kek",
+    "Keket",
+    "Tenem",
+    "Tenemet"
+  ],
+  "objects": [],
+  "places": [
+    "Hermopolis"
+  ],
+  "related_texts": [
+    "heliopolitan",
+    "memphite"
+  ],
+  "bibliography": [
+    "ucl-creation",
+    "ucl-coffins"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "Watery expanse, unendingness, darkness and lack of direction in the CT 76 grouping.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ucl-creation",
+          "locator": "Before creation; CT 76"
+        }
+      ]
+    },
+    "first-actors": {
+      "text": "Four pairs; CT 76 includes Tenem and Tenemet, not the Amun pair familiar from later lists.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ucl-creation",
+          "locator": "Before creation; CT 76"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "TODO: Collate CT 76 and later accounts before assembling an emergence sequence.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    },
+    "human-creation": {
+      "text": "TODO: No human-creation passage collated in this dossier.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    },
+    "divine-structure": {
+      "text": "The Eight are a pre-creation grouping, not a single continuous Hermopolitan epic.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "ucl-creation",
+          "locator": "Before creation"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "TODO: No passage collated.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    }
+  },
+  "claims": [],
+  "original_terms": [],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "CT 76 needs coffin sigla, original-language transcription, exact provenance and dates.",
+    "Modern label “Hermopolitan” does not establish place of origin.",
+    "Do not date later cosmic-egg accounts by the age of the Coffin Texts."
+  ]
+}

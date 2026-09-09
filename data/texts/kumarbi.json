@@ -1,0 +1,179 @@
+{
+  "id": "kumarbi",
+  "title": "Kumarbi / Song of Emergence",
+  "tradition": "anatolian",
+  "culture": "Anatolian / Hurrian / Hittite",
+  "language": "Hittite (Hurrian tradition)",
+  "record_status": "initial-dossier",
+  "metadata_citations": [
+    {
+      "source": "powell-kumarbi",
+      "locator": "Source heading / catalogue"
+    }
+  ],
+  "claimed_setting": {
+    "text": "Earlier kingship in heaven.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "powell-kumarbi",
+        "locator": "p. 12"
+      }
+    ]
+  },
+  "estimated_composition": {
+    "label": "TODO: Composition date and competing proposals require a sourced review.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "composition",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "surviving_manuscript": {
+    "label": "around 1300 BCE: group-level context",
+    "start": -1300,
+    "end": -1300,
+    "status": "documented",
+    "scope": "corpus-context",
+    "confidence": "moderate",
+    "citations": [
+      {
+        "source": "powell-kumarbi",
+        "locator": "p. 12"
+      }
+    ]
+  },
+  "earliest_witness": {
+    "label": "TODO: Earliest physical witness not yet established for this exact passage.",
+    "start": null,
+    "end": null,
+    "status": "todo",
+    "scope": "earliest-witness",
+    "confidence": "unknown",
+    "citations": []
+  },
+  "provenance": {
+    "text": "Tablets from Hattusa; individual museum catalogue and joins remain TODO.",
+    "category": "historical-interpretation",
+    "confidence": "high",
+    "status": "documented",
+    "label": "SCHOLARLY INTERPRETATION",
+    "citations": [
+      {
+        "source": "powell-kumarbi",
+        "locator": "p. 12"
+      }
+    ]
+  },
+  "primary_sources": [],
+  "translations": [
+    {
+      "kind": "original-project-summary",
+      "note": "Comparison cells are summaries, not continuous translations. Check each linked source and passage."
+    }
+  ],
+  "manuscripts": [],
+  "motifs": [
+    "divine-generation",
+    "divine-succession",
+    "overthrow-of-older-generation",
+    "rebellion"
+  ],
+  "figures": [
+    "Alalu",
+    "Anu",
+    "Kumarbi",
+    "Teshub",
+    "Ea"
+  ],
+  "objects": [],
+  "places": [
+    "Hattusa"
+  ],
+  "related_texts": [],
+  "bibliography": [
+    "powell-kumarbi"
+  ],
+  "comparison": {
+    "primordial-state": {
+      "text": "The selected account begins with kingship, not the creation of the world.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "powell-kumarbi",
+          "locator": "p. 12"
+        }
+      ]
+    },
+    "first-actors": {
+      "text": "Alalu, Anu and Kumarbi occupy the succession sequence.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "powell-kumarbi",
+          "locator": "p. 12"
+        }
+      ]
+    },
+    "creation-order": {
+      "text": "Kumarbi bites off Anu’s genitals and becomes pregnant.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "powell-kumarbi",
+          "locator": "p. 12"
+        }
+      ]
+    },
+    "human-creation": {
+      "text": "TODO: No human-creation passage collated.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    },
+    "divine-structure": {
+      "text": "Anu overthrows Alalu; Kumarbi attacks Anu.",
+      "category": "historical-interpretation",
+      "confidence": "high",
+      "status": "documented",
+      "label": "SCHOLARLY INTERPRETATION",
+      "citations": [
+        {
+          "source": "powell-kumarbi",
+          "locator": "p. 12"
+        }
+      ]
+    },
+    "knowledge-mortality": {
+      "text": "TODO: Do not reconstruct the damaged birth sequence or ending without a critical edition.",
+      "category": "historical-interpretation",
+      "confidence": "unknown",
+      "status": "todo",
+      "label": "UNKNOWN",
+      "citations": []
+    }
+  },
+  "claims": [],
+  "original_terms": [],
+  "gaps": [
+    "Complete manuscript-level collation and review by a subject specialist.",
+    "Add KUB/CTH inventory and original Hittite; secondary summary is not a diplomatic edition.",
+    "Ullikummi requires its own record.",
+    "Do not harmonize alternative reconstructions of the storm god’s birth."
+  ]
+}

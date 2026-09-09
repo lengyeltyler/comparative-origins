@@ -1,0 +1,1142 @@
+{
+  "$id": "https://comparative-origins.example/schema/definitions",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$defs": {
+    "citation": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "source": {
+          "type": "string",
+          "minLength": 1
+        },
+        "locator": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "source",
+        "locator"
+      ]
+    },
+    "claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "enum": [
+            "primary-evidence",
+            "textual-reconstruction",
+            "historical-interpretation",
+            "traditional-interpretation",
+            "speculation"
+          ]
+        },
+        "confidence": {
+          "enum": [
+            "very-high",
+            "high",
+            "moderate",
+            "low",
+            "speculative",
+            "unknown"
+          ]
+        },
+        "status": {
+          "enum": [
+            "documented",
+            "todo",
+            "fragmentary"
+          ]
+        },
+        "label": {
+          "enum": [
+            "PRIMARY SOURCE",
+            "SCHOLARLY INTERPRETATION",
+            "SCHOLARLY CONSENSUS",
+            "MAJORITY VIEW",
+            "DISPUTED",
+            "MINORITY VIEW",
+            "SPECULATION",
+            "UNKNOWN",
+            "TRADITIONAL INTERPRETATION"
+          ]
+        },
+        "citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 0
+        }
+      },
+      "required": [
+        "text",
+        "category",
+        "confidence",
+        "status",
+        "label",
+        "citations"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "todo"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "text": {
+                "pattern": "^TODO:"
+              },
+              "confidence": {
+                "const": "unknown"
+              },
+              "label": {
+                "const": "UNKNOWN"
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "citations": {
+                "minItems": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "date": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "end": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "status": {
+          "enum": [
+            "documented",
+            "todo"
+          ]
+        },
+        "scope": {
+          "enum": [
+            "composition",
+            "individual-witness",
+            "earliest-witness",
+            "corpus-context"
+          ]
+        },
+        "confidence": {
+          "enum": [
+            "very-high",
+            "high",
+            "moderate",
+            "low",
+            "speculative",
+            "unknown"
+          ]
+        },
+        "citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 0
+        }
+      },
+      "required": [
+        "label",
+        "start",
+        "end",
+        "status",
+        "scope",
+        "confidence",
+        "citations"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "todo"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "label": {
+                "pattern": "^TODO:"
+              },
+              "start": {
+                "type": "null"
+              },
+              "end": {
+                "type": "null"
+              },
+              "confidence": {
+                "const": "unknown"
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "citations": {
+                "minItems": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "term": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "original": {
+          "type": "string",
+          "minLength": 1
+        },
+        "transliteration": {
+          "type": "string",
+          "minLength": 1
+        },
+        "gloss": {
+          "type": "string",
+          "minLength": 1
+        },
+        "language": {
+          "type": "string",
+          "minLength": 1
+        },
+        "citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "original",
+        "transliteration",
+        "gloss",
+        "language",
+        "citations"
+      ]
+    },
+    "text": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "tradition": {
+          "type": "string",
+          "minLength": 1
+        },
+        "culture": {
+          "type": "string",
+          "minLength": 1
+        },
+        "language": {
+          "type": "string",
+          "minLength": 1
+        },
+        "record_status": {
+          "enum": [
+            "initial-dossier",
+            "reviewed"
+          ]
+        },
+        "metadata_citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 1
+        },
+        "claimed_setting": {
+          "$ref": "#/$defs/claim"
+        },
+        "estimated_composition": {
+          "$ref": "#/$defs/date"
+        },
+        "surviving_manuscript": {
+          "$ref": "#/$defs/date"
+        },
+        "earliest_witness": {
+          "$ref": "#/$defs/date"
+        },
+        "provenance": {
+          "$ref": "#/$defs/claim"
+        },
+        "primary_sources": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "translations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "type": "string",
+                "minLength": 1
+              },
+              "note": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "kind",
+              "note"
+            ]
+          },
+          "minItems": 0
+        },
+        "manuscripts": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "motifs": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "figures": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "objects": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "places": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "related_texts": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "bibliography": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "comparison": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "primordial-state": {
+              "$ref": "#/$defs/claim"
+            },
+            "first-actors": {
+              "$ref": "#/$defs/claim"
+            },
+            "creation-order": {
+              "$ref": "#/$defs/claim"
+            },
+            "human-creation": {
+              "$ref": "#/$defs/claim"
+            },
+            "divine-structure": {
+              "$ref": "#/$defs/claim"
+            },
+            "knowledge-mortality": {
+              "$ref": "#/$defs/claim"
+            }
+          },
+          "required": [
+            "primordial-state",
+            "first-actors",
+            "creation-order",
+            "human-creation",
+            "divine-structure",
+            "knowledge-mortality"
+          ]
+        },
+        "claims": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/claim"
+          },
+          "minItems": 0
+        },
+        "original_terms": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/term"
+          },
+          "minItems": 0
+        },
+        "gaps": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "tradition",
+        "culture",
+        "language",
+        "record_status",
+        "metadata_citations",
+        "claimed_setting",
+        "estimated_composition",
+        "surviving_manuscript",
+        "earliest_witness",
+        "provenance",
+        "primary_sources",
+        "translations",
+        "manuscripts",
+        "motifs",
+        "figures",
+        "objects",
+        "places",
+        "related_texts",
+        "bibliography",
+        "comparison",
+        "claims",
+        "original_terms",
+        "gaps"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "author": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "pattern": "^https://"
+        },
+        "kind": {
+          "enum": [
+            "primary-edition",
+            "primary-translation",
+            "critical-edition",
+            "museum-catalogue",
+            "manuscript-catalogue",
+            "academic-reference",
+            "scholarly-article",
+            "scholarly-study"
+          ]
+        },
+        "edition": {
+          "type": "string",
+          "minLength": 1
+        },
+        "accessed": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "review_status": {
+          "enum": [
+            "reviewed",
+            "discovery-only"
+          ]
+        },
+        "rights": {
+          "type": "string",
+          "minLength": 1
+        },
+        "notes": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "author",
+        "url",
+        "kind",
+        "edition",
+        "accessed",
+        "review_status",
+        "rights",
+        "notes"
+      ]
+    },
+    "motif": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "group": {
+          "type": "string",
+          "minLength": 1
+        },
+        "definition": {
+          "type": "string",
+          "minLength": 1
+        },
+        "scope_note": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "group",
+        "definition",
+        "scope_note"
+      ]
+    },
+    "occurrence": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "motif": {
+          "type": "string",
+          "minLength": 1
+        },
+        "attestation": {
+          "enum": [
+            "explicit",
+            "interpretive",
+            "reported-via-scholarship"
+          ]
+        },
+        "claim": {
+          "$ref": "#/$defs/claim"
+        }
+      },
+      "required": [
+        "id",
+        "text",
+        "motif",
+        "attestation",
+        "claim"
+      ]
+    },
+    "object": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "tradition": {
+          "type": "string",
+          "minLength": 1
+        },
+        "family": {
+          "type": "string",
+          "minLength": 1
+        },
+        "original_word": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "transliteration": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "literal_meaning": {
+          "type": "string",
+          "minLength": 1
+        },
+        "language": {
+          "type": "string",
+          "minLength": 1
+        },
+        "terminology_citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 0
+        },
+        "description": {
+          "$ref": "#/$defs/claim"
+        },
+        "owner": {
+          "$ref": "#/$defs/claim"
+        },
+        "powers": {
+          "$ref": "#/$defs/claim"
+        },
+        "power_locus": {
+          "$ref": "#/$defs/claim"
+        },
+        "context": {
+          "$ref": "#/$defs/claim"
+        },
+        "interpretation": {
+          "$ref": "#/$defs/claim"
+        },
+        "date": {
+          "$ref": "#/$defs/date"
+        },
+        "earliest_attestation": {
+          "$ref": "#/$defs/date"
+        },
+        "comparables": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "parallel_confidence": {
+          "enum": [
+            "very-high",
+            "high",
+            "moderate",
+            "low",
+            "speculative",
+            "unknown"
+          ]
+        },
+        "parallel_explanation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "tradition",
+        "family",
+        "original_word",
+        "transliteration",
+        "literal_meaning",
+        "language",
+        "terminology_citations",
+        "description",
+        "owner",
+        "powers",
+        "power_locus",
+        "context",
+        "interpretation",
+        "date",
+        "earliest_attestation",
+        "comparables",
+        "parallel_confidence",
+        "parallel_explanation",
+        "citations"
+      ]
+    },
+    "witness": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "language": {
+          "type": "string",
+          "minLength": 1
+        },
+        "original": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "transliteration": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "translation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "status": {
+          "enum": [
+            "documented",
+            "todo"
+          ]
+        },
+        "manuscript": {
+          "type": "string",
+          "minLength": 1
+        },
+        "citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "language",
+        "original",
+        "transliteration",
+        "translation",
+        "status",
+        "manuscript",
+        "citations"
+      ]
+    },
+    "variant": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "passage": {
+          "type": "string",
+          "minLength": 1
+        },
+        "witnesses": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/witness"
+          },
+          "minItems": 2
+        },
+        "meaning": {
+          "$ref": "#/$defs/claim"
+        },
+        "possible_reason": {
+          "$ref": "#/$defs/claim"
+        },
+        "assessment": {
+          "$ref": "#/$defs/claim"
+        },
+        "traditional": {
+          "$ref": "#/$defs/claim"
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "text",
+        "passage",
+        "witnesses",
+        "meaning",
+        "possible_reason",
+        "assessment",
+        "traditional"
+      ]
+    },
+    "relationship": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "from_text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "to_text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "classification": {
+          "enum": [
+            "direct-dependence",
+            "shared-tradition",
+            "cultural-transmission",
+            "typological-parallel",
+            "weak-parallel",
+            "no-known-connection",
+            "disputed",
+            "unknown"
+          ]
+        },
+        "confidence": {
+          "enum": [
+            "very-high",
+            "high",
+            "moderate",
+            "low",
+            "speculative",
+            "unknown"
+          ]
+        },
+        "explanation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "support": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 1
+        },
+        "counterevidence": {
+          "type": "string",
+          "minLength": 1
+        },
+        "chronology": {
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "enum": [
+            "primary-evidence",
+            "textual-reconstruction",
+            "historical-interpretation",
+            "traditional-interpretation",
+            "speculation"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "from_text",
+        "to_text",
+        "classification",
+        "confidence",
+        "explanation",
+        "support",
+        "counterevidence",
+        "chronology",
+        "category"
+      ]
+    },
+    "contact": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "from_culture": {
+          "type": "string",
+          "minLength": 1
+        },
+        "to_culture": {
+          "type": "string",
+          "minLength": 1
+        },
+        "date": {
+          "$ref": "#/$defs/date"
+        },
+        "kind": {
+          "type": "string",
+          "minLength": 1
+        },
+        "claim": {
+          "$ref": "#/$defs/claim"
+        }
+      },
+      "required": [
+        "id",
+        "from_culture",
+        "to_culture",
+        "date",
+        "kind",
+        "claim"
+      ]
+    },
+    "index": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "texts": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "type": "string",
+          "minLength": 1
+        },
+        "citations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citation"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "texts",
+        "note",
+        "citations"
+      ]
+    },
+    "tradition": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "scope": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "scope",
+        "status"
+      ]
+    },
+    "research": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "question": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "body": {
+                "type": "string",
+                "minLength": 1
+              },
+              "category": {
+                "enum": [
+                  "primary-evidence",
+                  "textual-reconstruction",
+                  "historical-interpretation",
+                  "traditional-interpretation",
+                  "speculation"
+                ]
+              },
+              "citations": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/$defs/citation"
+                },
+                "minItems": 0
+              }
+            },
+            "required": [
+              "title",
+              "body",
+              "category",
+              "citations"
+            ]
+          },
+          "minItems": 1
+        },
+        "next_steps": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "question",
+        "status",
+        "sections",
+        "next_steps"
+      ]
+    },
+    "expansion": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "const": "todo"
+        },
+        "requirements": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "status",
+        "requirements"
+      ]
+    }
+  }
+}

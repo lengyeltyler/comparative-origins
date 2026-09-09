@@ -1,0 +1,405 @@
+[
+  {
+    "id": "root-hypothesis",
+    "title": "The Root Hypothesis",
+    "question": "Can surviving traditions be traced toward one earlier common religious or cosmological tradition?",
+    "status": "OPEN QUESTION",
+    "sections": [
+      {
+        "title": "What would count as common ancestry?",
+        "body": "A common ancestor is a model to test. It would need a dated chain of evidence and a set of distinctive shared features. Water, darkness or divine beings alone are too general to decide among competing models.",
+        "category": "speculation",
+        "citations": []
+      },
+      {
+        "title": "Evidence for common ancestry",
+        "body": "No global common ancestor is established by this initial corpus. The project has not yet assembled the linguistic, archaeological and chronological evidence needed to evaluate that proposition. This is a research status, not a disproof.",
+        "category": "speculation",
+        "citations": []
+      },
+      {
+        "title": "Evidence for borrowing",
+        "body": "The Kumarbi–Hesiod comparison offers a specific research lead involving divine succession and genital violence. The current relationship record is disputed, with moderate confidence in the relevance of comparison. It does not assert direct textual dependence.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "powell-kumarbi",
+            "locator": "p. 12"
+          },
+          {
+            "source": "hesiod",
+            "locator": "154–182"
+          }
+        ]
+      },
+      {
+        "title": "Independent development",
+        "body": "Test whether ordinary human experiences, environments and political institutions could account for broad patterns. Similarity does not rule out independent development; difference does not establish it.",
+        "category": "speculation",
+        "citations": []
+      },
+      {
+        "title": "Chronology problems",
+        "body": "Composition, oral precursors, earliest attestation and dates of surviving copies must be modeled separately. The Shabaka Stone’s claim to preserve old writing is itself evidence to examine, not a surviving ancient original.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "bm-shabaka",
+            "locator": "Description; Curator comments"
+          }
+        ]
+      },
+      {
+        "title": "Geographical problems",
+        "body": "Ugarit’s dated contact with the Hittite kingdom provides one investigated contact edge. Contact allows a possible route; it does not demonstrate movement of any particular myth. No global genealogical tree is drawn.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "met-ugarit",
+            "locator": "Hittite domination and treaty"
+          }
+        ]
+      },
+      {
+        "title": "Linguistic evidence",
+        "body": "TODO: compare original words, productive roots, borrowing phonology and semantic range. A translated word such as “chaos” or “staff” is not a linguistic cognate.",
+        "category": "speculation",
+        "citations": []
+      },
+      {
+        "title": "Archaeological evidence",
+        "body": "Objects can supply physical dates and contexts. The Egyptian ivory wand has a material history; a literary staff has a narrative history. These are different kinds of records, requiring different tests.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "met-wand",
+            "locator": "Artwork Details"
+          },
+          {
+            "source": "hesiod",
+            "locator": "22–35"
+          }
+        ]
+      },
+      {
+        "title": "Missing evidence",
+        "body": "Unattested oral traditions, lost manuscripts, uncertain composition dates and uneven excavation leave substantial gaps. A missing link is a research gap; it cannot be filled by drawing an arrow.",
+        "category": "speculation",
+        "citations": []
+      },
+      {
+        "title": "Competing models",
+        "body": "Keep five models open: local continuity; borrowing through contact; shared regional inheritance; independent development; a much earlier common source. They need not be mutually exclusive at every scale. For each proposed connection, record what discovery could weaken or strengthen it.",
+        "category": "speculation",
+        "citations": []
+      }
+    ],
+    "next_steps": [
+      "Build a passage-specific chronology and a dated contact register.",
+      "Compare distinctive clusters without counting several retellings of one source as independent evidence.",
+      "Commission philological and archaeological review before assigning high-confidence ancestry."
+    ]
+  },
+  {
+    "id": "staff-and-scepter",
+    "title": "Staff, rod & scepter",
+    "question": "Which similarities survive when we compare the original terms and the objects’ actual roles?",
+    "status": "INITIAL DOSSIER",
+    "sections": [
+      {
+        "title": "Start with the word",
+        "body": "Moses’ and Aaron’s implements are called maṭṭeh in the selected Hebrew passages. Hesiod’s gift is a skēptron. The English overlap does not establish that they are the same kind of object.",
+        "category": "primary-evidence",
+        "citations": [
+          {
+            "source": "ex-4",
+            "locator": "4:2–5"
+          },
+          {
+            "source": "ex-7",
+            "locator": "7:9–12"
+          },
+          {
+            "source": "scepter-scs",
+            "locator": "Theogony discussion"
+          }
+        ]
+      },
+      {
+        "title": "Keep the extraordinary claim",
+        "body": "Exodus describes transformations and a staff swallowing rival staffs. Hesiod describes the Muses giving him a staff and voice. Record those claims without replacing them with symbolism or treating them as demonstrated physical events.",
+        "category": "primary-evidence",
+        "citations": [
+          {
+            "source": "ex-4",
+            "locator": "4:2–5, 17"
+          },
+          {
+            "source": "ex-7",
+            "locator": "7:10–12"
+          },
+          {
+            "source": "hesiod",
+            "locator": "22–35"
+          }
+        ]
+      },
+      {
+        "title": "Who acts?",
+        "body": "The object records distinguish wielder, attributed powers and source of power. Hesiod’s divine voice is given by the Muses; the passage does not attribute an autonomous mechanism to the wood.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "hesiod",
+            "locator": "30–34"
+          }
+        ]
+      },
+      {
+        "title": "A physical comparison",
+        "body": "Met 86.1.91 is a curved ivory implement with protective figures. Its association with infant protection and rebirth is the museum’s interpretation; the catalogue title “Magic Wand” does not supply an ancient Egyptian word.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "met-wand",
+            "locator": "Description and Artwork Details"
+          }
+        ]
+      },
+      {
+        "title": "What remains unproved",
+        "body": "No cross-cultural identity, identical power source or common origin for these objects is established here. Comparables are research leads, currently speculative.",
+        "category": "speculation",
+        "citations": []
+      }
+    ],
+    "next_steps": [
+      "Verify original Egyptian names for each object type.",
+      "Add royal scepters, Mesopotamian rods and rings, Hermes’ staff and healing serpent iconography as separate dossiers.",
+      "Establish earliest attestations from a witness census; do not use the oldest item currently entered as the earliest known."
+    ]
+  },
+  {
+    "id": "creation",
+    "title": "Creation from a primordial state",
+    "question": "What existed first, and what does each text say changes?",
+    "status": "INITIAL COMPARISON",
+    "sections": [
+      {
+        "title": "Compare passages of comparable scope",
+        "body": "Genesis 1 describes darkness, deep and waters. Enuma Elish begins with Apsu and Tiamat’s mingled waters. Hesiod places Chaos first. These are three differently worded beginnings.",
+        "category": "primary-evidence",
+        "citations": [
+          {
+            "source": "gen-1",
+            "locator": "1:2"
+          },
+          {
+            "source": "oregon-enuma",
+            "locator": "Tablet I, opening"
+          },
+          {
+            "source": "hesiod",
+            "locator": "116–122"
+          }
+        ]
+      },
+      {
+        "title": "Respect fragments and composite traditions",
+        "body": "The Sumerian flood story opens after a large lacuna. The modern Hermopolitan dossier draws on references such as CT 76, not a surviving continuous epic.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "etcsl-flood",
+            "locator": "Segment A opening"
+          },
+          {
+            "source": "ucl-creation",
+            "locator": "Before creation"
+          }
+        ]
+      },
+      {
+        "title": "Creation and sovereignty",
+        "body": "Baal’s victory over Yam should not be silently turned into a full account of world creation. The interpretation of divine combat as creation is a scholarly question.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "ugarit-baal",
+            "locator": "KTU 1.2 iv"
+          },
+          {
+            "source": "fisher-ugarit",
+            "locator": "pp. 313–324"
+          }
+        ]
+      }
+    ],
+    "next_steps": [
+      "Collate Egyptian primary passages and the remaining Enuma Elish tablets.",
+      "Record several scholarly positions on chaos terminology and Genesis composition."
+    ]
+  },
+  {
+    "id": "human-creation",
+    "title": "The making of humanity",
+    "question": "Which materials, actions and purposes are actually named?",
+    "status": "INITIAL COMPARISON",
+    "sections": [
+      {
+        "title": "Three materials, distinct descriptions",
+        "body": "Genesis 2:7 specifies ground-dust and the breath of life. Atrahasis’s creation passage mixes clay with divine flesh and blood. Enuma Elish VI names Qingu’s blood and the transfer of divine work to humanity.",
+        "category": "primary-evidence",
+        "citations": [
+          {
+            "source": "gen-2",
+            "locator": "2:7"
+          },
+          {
+            "source": "millard-atra",
+            "locator": "Tablet I, iv 39–57"
+          },
+          {
+            "source": "heidel",
+            "locator": "Enuma Elish VI 29–36"
+          }
+        ]
+      },
+      {
+        "title": "Do not turn a tag into a translation",
+        "body": "“Humanity from earth” and “humanity from clay” remain distinct motifs. Material similarity is relevant, but a claim of borrowing requires additional evidence.",
+        "category": "speculation",
+        "citations": []
+      },
+      {
+        "title": "The scope of Hesiod’s account",
+        "body": "The Theogony describes the fashioning of the first woman in Zeus’s response to Prometheus. It does not provide a symmetric origin account for all humans in this passage.",
+        "category": "primary-evidence",
+        "citations": [
+          {
+            "source": "hesiod",
+            "locator": "570–612"
+          }
+        ]
+      }
+    ],
+    "next_steps": [
+      "Add Enki and Ninmah with original Sumerian terminology.",
+      "Separate the formation of bodies, animation, social function and mortality."
+    ]
+  },
+  {
+    "id": "flood",
+    "title": "Flood & survival",
+    "question": "What is preserved about destruction, survivors and the aftermath?",
+    "status": "PARTIAL COVERAGE",
+    "sections": [
+      {
+        "title": "Sumerian survival",
+        "body": "The Sumerian flood story describes a boat enduring seven days and nights, the return of the sun, sacrifice and Ziusudra’s exceptional life. Its missing stretches must remain visible.",
+        "category": "primary-evidence",
+        "citations": [
+          {
+            "source": "etcsl-flood",
+            "locator": "Segments D–E"
+          }
+        ]
+      },
+      {
+        "title": "The next controlled comparison",
+        "body": "Atrahasis has a flood tradition, represented here by catalogued tablets, but the full episode still needs passage-level collation. Genesis 6–9 and Gilgamesh XI are queued expansions. A complete flood comparison is not claimed.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "bm-atra",
+            "locator": "Description"
+          },
+          {
+            "source": "bm-atra-1",
+            "locator": "Description"
+          }
+        ]
+      },
+      {
+        "title": "Historical event questions",
+        "body": "A literary flood report and archaeological flood deposits answer different questions. Connecting them requires independent dating, regional evidence and criteria for distinguishing ordinary flooding from a specific claimed event.",
+        "category": "speculation",
+        "citations": []
+      }
+    ],
+    "next_steps": [
+      "Collate Genesis 6–9, Atrahasis III and Gilgamesh XI.",
+      "Keep boat shape, duration, animal preservation and landing-place claims tied to their individual versions."
+    ]
+  },
+  {
+    "id": "divine-succession",
+    "title": "Divine generations & succession",
+    "question": "Does a shared sequence indicate transmission or only a comparable pattern?",
+    "status": "DISPUTED RELATIONSHIP",
+    "sections": [
+      {
+        "title": "The paired passages",
+        "body": "In Hesiod, Kronos attacks Ouranos with a sickle. In the Hittite-Hurrian material summarized by Powell, Kumarbi bites off Anu’s genitals. The distinctive resemblance motivates investigation; the mechanisms differ.",
+        "category": "historical-interpretation",
+        "citations": [
+          {
+            "source": "hesiod",
+            "locator": "154–182"
+          },
+          {
+            "source": "powell-kumarbi",
+            "locator": "p. 12"
+          }
+        ]
+      },
+      {
+        "title": "A testable relationship",
+        "body": "Keep contact, chronology, literary sequence and differences in separate fields. Do not equate a storm god with every other storm god or infer direct dependence from the name of a motif.",
+        "category": "speculation",
+        "citations": []
+      }
+    ],
+    "next_steps": [
+      "Replace the Kumarbi summary with a collated primary dossier.",
+      "Add Ullikummi without merging its plot into the Song of Emergence."
+    ]
+  },
+  {
+    "id": "serpent",
+    "title": "Serpents in context",
+    "question": "When is a serpent a speaking character, transformed object, image or modern interpretation?",
+    "status": "INITIAL DOSSIER",
+    "sections": [
+      {
+        "title": "Keep the roles separate",
+        "body": "Genesis 3 presents a speaking serpent. Exodus 4 describes a staff becoming a serpent. Exodus 7 uses a different Hebrew creature term, tannîn, in the Aaron episode. Similar English renderings should not erase these differences.",
+        "category": "primary-evidence",
+        "citations": [
+          {
+            "source": "gen-3",
+            "locator": "3:1–5"
+          },
+          {
+            "source": "ex-4",
+            "locator": "4:3–4"
+          },
+          {
+            "source": "ex-7",
+            "locator": "7:9–12"
+          }
+        ]
+      },
+      {
+        "title": "Interpretations are additional evidence",
+        "body": "Later identifications and healing symbolism require their own dated texts or objects. This dossier does not project them into the creation narrative.",
+        "category": "speculation",
+        "citations": []
+      }
+    ],
+    "next_steps": [
+      "Add original-language lexical references for nāḥāš and tannîn.",
+      "Date healing/serpent-staff attestations independently."
+    ]
+  }
+]

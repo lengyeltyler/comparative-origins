@@ -1,0 +1,5 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "occurrence",
+  "$ref": "https://comparative-origins.example/schema/definitions#/$defs/occurrence"
+}

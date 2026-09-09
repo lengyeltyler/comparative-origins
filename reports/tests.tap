@@ -1,0 +1,104 @@
+
+> comparative-origins@0.1.0 test
+> node --test tests/*.test.mjs
+
+TAP version 13
+# Subtest: the initial corpus satisfies schema and all cross references
+ok 1 - the initial corpus satisfies schema and all cross references
+  ---
+  duration_ms: 50.671875
+  ...
+# Subtest: broken citations fail validation
+ok 2 - broken citations fail validation
+  ---
+  duration_ms: 32.968292
+  ...
+# Subtest: a non-TODO assertion without citations is rejected
+ok 3 - a non-TODO assertion without citations is rejected
+  ---
+  duration_ms: 19.427833
+  ...
+# Subtest: a discovery lead cannot support an asserted reading
+ok 4 - a discovery lead cannot support an asserted reading
+  ---
+  duration_ms: 17.222542
+  ...
+# Subtest: confidence labels cannot fabricate scholarly consensus
+ok 5 - confidence labels cannot fabricate scholarly consensus
+  ---
+  duration_ms: 19.088083
+  ...
+# Subtest: missing Qumran coverage cannot be populated with a guessed reading
+ok 6 - missing Qumran coverage cannot be populated with a guessed reading
+  ---
+  duration_ms: 23.536541
+  ...
+# Subtest: unknown and reversed chronology intervals fail
+ok 7 - unknown and reversed chronology intervals fail
+  ---
+  duration_ms: 18.380959
+  ...
+# Subtest: an explicit empty comparison stays empty
+ok 8 - an explicit empty comparison stays empty
+  ---
+  duration_ms: 0.315583
+  ...
+# Subtest: selection links preserve order and reject unknown or repeated ids
+ok 9 - selection links preserve order and reject unknown or repeated ids
+  ---
+  duration_ms: 0.352333
+  ...
+# Subtest: comparison engine honors selected order
+ok 10 - comparison engine honors selected order
+  ---
+  duration_ms: 0.101
+  ...
+# Subtest: missing motif means no documented entry, never absence
+ok 11 - missing motif means no documented entry, never absence
+  ---
+  duration_ms: 0.230791
+  ...
+# Subtest: clay and dust are not automatically merged
+ok 12 - clay and dust are not automatically merged
+  ---
+  duration_ms: 0.171959
+  ...
+# Subtest: individual-witness chronology excludes broad corpus ranges
+ok 13 - individual-witness chronology excludes broad corpus ranges
+  ---
+  duration_ms: 7.849541
+  ...
+# Subtest: composition proposals never inherit medieval manuscript dates
+ok 14 - composition proposals never inherit medieval manuscript dates
+  ---
+  duration_ms: 0.095875
+  ...
+# Subtest: unknown dates sort after known intervals
+ok 15 - unknown dates sort after known intervals
+  ---
+  duration_ms: 0.078958
+  ...
+# Subtest: motif chronology sends corpus contexts to the undated group
+ok 16 - motif chronology sends corpus contexts to the undated group
+  ---
+  duration_ms: 0.107041
+  ...
+# Subtest: full-text search covers original terms, objects, and citations
+ok 17 - full-text search covers original terms, objects, and citations
+  ---
+  duration_ms: 1.6055
+  ...
+# Subtest: source references cannot silently point to non-existent object comparables
+ok 18 - source references cannot silently point to non-existent object comparables
+  ---
+  duration_ms: 18.125292
+  ...
+1..18
+# tests 18
+# suites 0
+# pass 18
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 286.0825
